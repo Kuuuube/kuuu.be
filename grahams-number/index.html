@@ -79,13 +79,20 @@
 
         let prev_result = null;
         let prev_time_elapsed_seconds = null;
+        let front_zero_padding = "";
         function update_display(timespan, number) {
+            // zeros on the front will be stripped, if it's the same as previous it must mean theres a zero on the front
+            if (number == prev_result) {
+                front_zero_padding += "0";
+            } else {
+                front_zero_padding = "";
+            }
             prev_result = number;
             prev_time_elapsed_seconds = timespan;
             let number_len = number.toString().length;
             document.querySelector("#digits_count").textContent = number_len;
             document.querySelector("#timespan").textContent = timespan ? " in " + timespan.toFixed(3) + "s" : "";
-            document.querySelector("#number-container").textContent = number;
+            document.querySelector("#number-container").textContent = front_zero_padding + number.toString();
         }
 
         function start_calculation(digits_count) {
