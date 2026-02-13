@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-    <div>The last <span id="digits_count"></span> digits of Graham's number, calculated directly in your browser<span id="timespan"></span> <button type="button" id="stop_button">Stop/Start</button>:</div>
+    <div>The last <span id="digits_count"></span> digits of Graham's number, calculated directly in your browser<span id="timespan"></span> <button type="button" id="stop_button">Stop</button>:</div>
     <div id="number-container"></div>
     <script id="graham_worker">
         let start_time = Date.now();
@@ -115,9 +115,11 @@
         function stop_calculation() {
             if (running) {
                 GRAHAM_WORKER.terminate();
+                document.querySelector("#stop_button").textContent = "Start";
             } else {
                 init_worker();
                 start_calculation();
+                document.querySelector("#stop_button").textContent = "Stop";
             }
             running = !running;
         }
