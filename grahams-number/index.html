@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="description" content="Live updating calculation of the last digits of Graham's number">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../favicon.ico">
@@ -24,7 +25,7 @@
     </style>
 </head>
 <body>
-    <div>The last <span id="digits_count"></span> digits of Graham's Number, calculated directly in your browser<span id="timespan"></span> <button type="button" id="stop_button">Stop/Start</button>:</div>
+    <div>The last <span id="digits_count"></span> digits of Graham's number, calculated directly in your browser<span id="timespan"></span> <button type="button" id="stop_button">Stop/Start</button>:</div>
     <div id="number-container"></div>
     <script id="graham_worker">
         let start_time = Date.now();
