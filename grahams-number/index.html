@@ -57,7 +57,7 @@
         }
 
         function graham_number(digits_count, result = 3n) {
-            for (let i = BigInt(result.toString().length); digits_count === null || i < digits_count + 1n; i++) {
+            for (let i = BigInt(result.toString().length + 1); digits_count === null || i < digits_count + 1n; i++) {
                 result = pow_mod(result, 10n ** i, 3n);
                 self.postMessage({
                     number: result,
