@@ -1,81 +1,124 @@
 <!DOCTYPE html>
-<div>The last <input id="digit-input" type="number" value="100"> digits of Graham's Number, <span id="calculation_status"></span> directly in your browser<span id="timespan"></span>:</div>
-<div id="number-container"></div>
-<style>
-    #digit-input {
-        max-width: 3em;
-        text-align: center;
-        appearance: textfield;
-    }
-    input[type="number"]::-webkit-outer-spin-button,
-    input[type="number"]::-webkit-inner-spin-button {
-        -webkit-appearance: none;
-        margin: 0;
-    }
-    #number-container {
-        overflow-wrap: anywhere;
-    }
-</style>
-<script id="graham_worker">
-    self.onmessage = (message) => {
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../favicon.ico">
+    <title>Graham's Number Calculator</title>
+    <link rel="stylesheet" href="../styles.css">
+    <style>
+        #digit-input {
+            max-width: 3em;
+            text-align: center;
+            appearance: textfield;
+        }
+        input[type="number"]::-webkit-outer-spin-button,
+        input[type="number"]::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+        #number-container {
+            overflow-wrap: anywhere;
+        }
+    </style>
+</head>
+<body>
+    <div>The last <span id="digits_count"></span> digits of Graham's Number, calculated directly in your browser<span id="timespan"></span> <button type="button" id="stop_button">Stop/Start</button>:</div>
+    <div id="number-container"></div>
+    <script id="graham_worker">
         let start_time = Date.now();
 
-        let digits_count = BigInt(message.data);
-        let number = graham_number(digits_count);
-        let time_elapsed_seconds = (Date.now() - start_time) / 1000;
-        self.postMessage({
-            number,
-            time_elapsed_seconds,
-        });
-    }
-
-    function pow_mod(exponent, mod, base) {
-        let working_exponent = exponent % (mod * 2n / 5n);
-        let working_base = base;
-        let result = 1n;
-
-        while (working_exponent > 0n) {
-            if (working_exponent % 2n == 1n) {
-                result = result * working_base % mod;
+        self.onmessage = (message) => {
+            start_time = Date.now();
+            let digits_count = message.data.digits_count ? BigInt(message.data.digits_count) : null;
+            if (message.data.action === "resume") {
+                start_time = Date.now() - message.data.prev_time_elapsed_seconds * 1000;
+                graham_number(digits_count, message.data.prev_result);
             }
-            working_base = working_base * working_base % mod;
-            working_exponent = working_exponent / 2n;
+            graham_number(digits_count);
         }
 
-        return result;
-    }
+        function pow_mod(exponent, mod, base) {
+            let working_exponent = exponent % (mod * 2n / 5n);
+            let working_base = base;
+            let result = 1n;
 
-    function graham_number(digits_count) {
-        let result = 3n;
-        for (let i = 1n; i < digits_count + 1n; i++) {
-            result = pow_mod(result, 10n ** i, 3n);
+            while (working_exponent > 0n) {
+                if (working_exponent % 2n == 1n) {
+                    result = result * working_base % mod;
+                }
+                working_base = working_base * working_base % mod;
+                working_exponent = working_exponent / 2n;
+            }
+
+            return result;
         }
-        return result;
-    }
-</script>
-<script>
-    const GRAHAM_WORKER_BLOB = new Blob([document.querySelector("#graham_worker").textContent], {type: "text/javascript"});
-    const GRAHAM_WORKER = new Worker(window.URL.createObjectURL(GRAHAM_WORKER_BLOB));
-    GRAHAM_WORKER.onmessage = (message) => {
-        update_display("calculated", message.data.time_elapsed_seconds, message.data.number);
-    }
 
-    function recalculate(digits_count) {
-        GRAHAM_WORKER.postMessage(digits_count);
-    }
+        function graham_number(digits_count, result = 3n) {
+            for (let i = BigInt(result.toString().length); digits_count === null || i < digits_count + 1n; i++) {
+                result = pow_mod(result, 10n ** i, 3n);
+                self.postMessage({
+                    number: result,
+                    time_elapsed_seconds: (Date.now() - start_time) / 1000,
+                });
+            }
+        }
+    </script>
+    <script>
+        const GRAHAM_WORKER_BLOB = new Blob([document.querySelector("#graham_worker").textContent], {type: "text/javascript"});
+        let GRAHAM_WORKER;
+        init_worker();
+        function init_worker() {
+            GRAHAM_WORKER = new Worker(window.URL.createObjectURL(GRAHAM_WORKER_BLOB));
+            GRAHAM_WORKER.onmessage = (message) => {
+                update_display(message.data.time_elapsed_seconds, message.data.number);
+            }
+        }
 
-    function update_display(calculation_status = "calculating", timespan = "", number = "") {
-        document.querySelector("#calculation_status").textContent = calculation_status;
-        document.querySelector("#timespan").textContent = timespan ? " in " + timespan + "s" : "";
-        document.querySelector("#number-container").textContent = number;
-    }
+        let prev_result = null;
+        let prev_time_elapsed_seconds = null;
+        function update_display(timespan, number) {
+            prev_result = number;
+            prev_time_elapsed_seconds = timespan;
+            let number_len = number.toString().length;
+            document.querySelector("#digits_count").textContent = number_len;
+            document.querySelector("#timespan").textContent = timespan ? " in " + timespan.toFixed(3) + "s" : "";
+            document.querySelector("#number-container").textContent = number;
+        }
 
-    document.querySelector("#digit-input").addEventListener("change", (e) => {
-        let digits_count = e.target.value;
-        recalculate(digits_count);
-        update_display();
-    });
+        function start_calculation(digits_count) {
+            if (prev_result && prev_time_elapsed_seconds) {
+                GRAHAM_WORKER.postMessage({
+                    action: "resume",
+                    prev_result,
+                    prev_time_elapsed_seconds,
+                    digits_count,
+                });
+                return;
+            }
+            GRAHAM_WORKER.postMessage({
+                action: "calculate",
+                digits_count,
+            });
+        }
 
-    recalculate(100n);
-    update_display();
-</script>
+        let running = true;
+        function stop_calculation() {
+            if (running) {
+                GRAHAM_WORKER.terminate();
+            } else {
+                init_worker();
+                start_calculation();
+            }
+            running = !running;
+        }
+
+        document.querySelector("#stop_button").addEventListener("click", () => {
+            stop_calculation();
+        });
+
+        start_calculation();
+    </script>
+</body>
+</html>
