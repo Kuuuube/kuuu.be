@@ -38,6 +38,28 @@ If you have the recipe for the lube you like, no company decision can decide to 
 
 You also are likely to have a significant amount of raw materials on hand to continue making your lube for a long time to come even if it becomes impossible to obtain an ingredient. This shields you from temporary supplychain problems more strongly than most large volume productions are able to shield themselves.
 
+## Types of lube you should not make at home
+
+Even if you think you're up to the task of making lube, there are a few types of lube that you should almost never be making and some that you should think twice about.
+
+### Sterile bacteriostatic surgical or medical lubricants
+
+These are used for surgical and medical procedures where the lubricant being sterile is critical. Some example uses include: insertion of urethral catheters and medical examination of the vagina or rectum. Among others, a few popular lubes in this category are: Surgilube, Dynalube, McKesson Lubricating Jelly, Aquagel, Bonnaqua Jelly, K-Y Jelly (note that K-Y makes many similarly named lubricants which are not sterile), HR Lubricating Jelly, and Medline Lubricating Jelly.
+
+In masturbation or sexual acts, these commonly get used for sounding or uretheral insertions due to the increased risk of infection in those areas compared to the vagina or rectum.
+
+While you can certainly create a copy of these recipes, it is not as easy to ensure a sterile environment and end product. Medical lubricants also tend to be much cheaper than standard sex lubricants due to the medical industry needing large amounts of them. You won't be saving as much money and the risk is far higher if your use case requires a sterile lubricant.
+
+I must also mention that you should not use these lubricants if you do not need to. Just because these are certified for medical use and regulated to a higher degree than most sex lubes, it does not mean they are better for all uses. Many formulations of medical lube can be harsher on the body. The goal of these lubes is to reduce the risk of infection from a medical procedure.
+
+### Silicone lubes
+
+If you've looked at the ingredients list of a silicone lube you might notice some contain anywhere from 1-3 ingredients. This seems like the easiest thing to make.
+
+Unlike water based lubes which are an easy win on price since water is cheap, silicone oils are expensive. You might be able to save money making your own but ensure this is the case by doing the math on all your costs.
+
+You also must be aware of the dangers dealing with volatile silicone oils. These are typically included in low quantities in silicone lubes to enhance performance. Not all silicone oils are volatile but ones that are may evaporate at room temperature and combust at a relatively low temperature. Read the safety data sheets, have the proper PPE, and be prepared for anything that could go wrong.
+
 ## Types of lube
 
 
