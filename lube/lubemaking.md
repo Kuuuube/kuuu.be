@@ -52,6 +52,14 @@ While you can certainly create a copy of these recipes, it is not as easy to ens
 
 I must also mention that you should not use these lubricants if you do not need to. Just because these are certified for medical use and regulated to a higher degree than most sex lubes, it does not mean they are better for all uses. Many formulations of medical lube can be harsher on the body. The goal of these lubes is to reduce the risk of infection from a medical procedure.
 
+### Eye or ear lubricants
+
+Similar to the surgical or medical lubricants, these need to be sterile. You **do not** want to use eye or ear lubricants that could be contaminated with bacteria.
+
+However, these are even more specialized than most medical lubricants, you may notice many surgical or medical lubricants specifically say they are not for use in eyes or ears. This category includes lubricating eyedrops for dry eyes, artificial tears, earmolding lubricants, and hearing aid lubricants.
+
+I highly recommend against attempting to make any lube that interacts with the eyes or ears.
+
 ### Silicone lubes
 
 If you've looked at the ingredients list of a silicone lube you might notice some contain anywhere from 1-3 ingredients. This seems like the easiest thing to make.
