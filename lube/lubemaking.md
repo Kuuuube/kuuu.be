@@ -70,7 +70,7 @@ Being aware of the dangers dealing with volatile silicone oils is also important
 
 ## Types of lube
 
-This list includes some notes on lubricants that may not be body safe for the sake of being thorough. Do not use random lubricating substances as sex lubes. When sourcing ingredients, ensure they are food grade or cosmetic grade and approved for mucous membrane contact.
+For the sake of being thorough, this list includes some notes on lubricants that are not body safe. Do not use random lubricating substances as sex lubes. When sourcing ingredients, ensure they are food grade or cosmetic grade and approved for mucous membrane contact.
 
 ### Water
 
