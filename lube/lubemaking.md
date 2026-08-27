@@ -50,7 +50,7 @@ In masturbation or sexual acts, these commonly get used for sounding or urethera
 
 While copying these recipes is certainly doable, it is not as easy to ensure a sterile environment and end product. Medical lubricants also tend to be much cheaper than standard sex lubricants due to the medical industry needing large amounts of them. The opportunity to save money is lower and the risk is far higher.
 
-I must also mention that you should not use these lubricants if you do not need to. Just because these are certified for medical use and regulated to a higher degree than most sex lubes, it does not mean they are better for all uses. Many formulations of medical lube can be harsher on the body. The goal of these lubes is to reduce the risk of infection from a medical procedure.
+I must also mention that you should not use these lubricants if you do not need to. Just because these are certified for medical use and regulated to a higher degree than most sex lubes does not mean they are better for all uses. Many formulations of medical lube can be harsher on the body. The goal of these lubes is to reduce the risk of infection from a medical procedure.
 
 ### Eye or ear lubricants
 
