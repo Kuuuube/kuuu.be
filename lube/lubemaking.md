@@ -92,13 +92,11 @@ Notably, controversy over PTFE centers upon the hazardous chemicals used in its 
 
 ### Greases
 
-Traditionally, greases are a calcium or lithium soap emulsified with oil and most are not body safe at all.
+Traditionally, greases are a calcium or lithium soap emulsified with oil and most greases are not body safe at all. But some greases are available that list being safe for incidental food contact. Most of the health concerns from traditional greases appear to be from toxic oils or additives included in them rather than an inherent property of the grease. Silicone and PTFE greases that are safe for incidental food contact also exist.
 
-There isn't much information on what would happen if you used a calcium or lithium grease as a sex lube. But after reading through a few safety data sheets, I think it would be an extremely bad idea. It's not entirely clear whether the grease itself is the main health concern or common additives in it. Hazards range from mild skin irritation to **causing death**.
+Considering there isn't much information on what would happen if you used a traditional grease as a sex lube, I advise against using them.
 
-Silicone and PTFE greases exist and some are safe for incidental food contact but given the heavy focus on industrial applications and considering that greases often contain unsafe additives, I advise staying away from these too.
-
-Some lubes may use the term "grease" to denote the thickness of the lubricant without being a traditional type of grease (the "Elbow Grease" brand for example). Thick oil based sex lubes using the term "grease" should be evaluated instead as an oil based lube.
+Some lubes may use the term "grease" to denote the thickness of the lubricant without being a traditional type of grease (the "Elbow Grease" brand for example). Thick oil based sex lubes using the term "grease" should be evaluated as an oil based lube instead.
 
 ### Dry Lubricants
 
