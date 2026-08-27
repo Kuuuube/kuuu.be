@@ -70,7 +70,41 @@ Being aware of the dangers dealing with volatile silicone oils is also important
 
 ## Types of lube
 
+This list includes some notes on lubricants that may not be body safe for the sake of being thorough. Do not use random lubricating substances as sex lubes.
 
+### Water
+
+
+
+### Oil
+
+
+
+### Silicone
+
+
+
+### PTFE
+
+Also known by the brand name Teflon, polytetrafluoroethylene lubricants are high performance and long lasting. They should be safe to use as sex lubricants in terms of toxicity but I'm not aware of any sex lubricants ever including PTFE. This may be due to the high cost compared to silicone lubricants which already fulfill the role of a long lasting lubricant that sticks to skin well. It is however included in many cosmetics, approved for use in products that come into contact with mucous membranes, and considered safe for food contact (it is often used to lubricate factory equipment that handles food).
+
+Notably, controversy over PTFE centers upon the hazardous chemicals used in its production such as PFOA or HFPO-DA. While PTFE itself isn't toxic, many people are against buying products using it due to the production process and potential for bioaccumulation due to its near inability to break down in the environment.
+
+### Greases
+
+Traditionally, greases are a calcium or lithium soap emulsified with oil and most are not body safe at all.
+
+There isn't much information on what would happen if you used a calcium or lithium grease as a sex lube. But after reading through a few safety data sheets, I think it would be an extremely bad idea. It's not entirely clear whether the grease itself is the main health concern or common additives in it. Hazards range from mild skin irritation to **causing death**.
+
+Silicone and PTFE greases exist and some are safe for incidental food contact but given the heavy focus on industrial applications and considering that greases often contain unsafe additives, I advise staying away from these too.
+
+Some lubes may use the term "grease" to denote the thickness of the lubricant without being a traditional type of grease (the "Elbow Grease" brand for example). Thick oil based sex lubes using the term "grease" should be evaluated instead as an oil based lube.
+
+### Dry Lubricants
+
+By far the most common dry lubricant is graphite. It is quite safe chemically but could cause some mechanical irritation if used as a sex lubricant. Some graphite lubricants contain extra additives that **significantly elevate** safety risks over plain graphite.
+
+There are other dry lubricants too. Besides PTFE, all the common dry lubricants I found appear to be less safe than graphite. I advise against using dry lubricants as a sex lube.
 
 ## Example recipes
 
