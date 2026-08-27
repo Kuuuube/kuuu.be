@@ -102,9 +102,9 @@ Some lubes may use the term "grease" to denote the thickness of the lubricant wi
 
 ### Dry Lubricants
 
-By far the most common dry lubricant is graphite. It is quite safe chemically but could cause some mechanical irritation if used as a sex lubricant. Some graphite lubricants contain extra additives that **significantly elevate** safety risks over plain graphite.
+By far the most common dry lubricant is graphite. Pure graphite powder is safe chemically and is approved for food contact but will not give adequate lubrication and may cause mechanical irritation to skin. However, many graphite lubricants contain extra additives that **significantly elevate** safety risks over pure graphite.
 
-There are other dry lubricants too. Besides PTFE, all the common dry lubricants I found appear to be less safe than graphite. I advise against using dry lubricants as a sex lube.
+Solid PTFE is another notable dry lubricant but doesn't seem useful in this case either. All other common dry lubricants I found appear to be less safe than graphite or PTFE. I advise against using dry lubricants as a sex lube.
 
 ## Example recipes
 
