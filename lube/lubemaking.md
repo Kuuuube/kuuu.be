@@ -86,9 +86,15 @@ For the sake of being thorough, this list includes some notes on lubricants that
 
 ### PTFE
 
-Also known by the brand name Teflon, polytetrafluoroethylene lubricants are high performance and long lasting. They should be safe to use as sex lubricants in terms of toxicity but I'm not aware of any sex lubricants ever including PTFE. This may be due to the high cost compared to silicone lubricants which already fulfill the role of a long lasting lubricant that sticks to skin well. It is however included in many cosmetics, approved for use in products that come into contact with mucous membranes, and considered safe for food contact (it is often used to lubricate factory equipment that handles food).
+Also known by the brand name Teflon, polytetrafluoroethylene lubricants are high performance and long lasting. They should be safe to use as sex lubricants in terms of toxicity but I'm not aware of any sex lubricants ever including PTFE. This may be due to the high cost compared to oil and silicone lubricants which already fulfill the role of a long lasting lubricant that sticks to skin well. It is however included in many cosmetics, approved for use in products that come into contact with mucous membranes, and considered safe for food contact (it is often used to lubricate factory equipment that handles food).
 
 Notably, controversy over PTFE centers upon the hazardous chemicals used in its production such as PFOA or HFPO-DA. While PTFE itself isn't toxic, many people are against buying products using it due to the production process and potential for bioaccumulation due to its near inability to break down in the environment.
+
+In the interest of science, I decided to test Krytox 203, a PTFE lubricant that is certified H1 (food contact) by the NSF. Though the H1 certification gives a decently high bar of safety, that does not mean they recommend using it as a sex lube. But I'm willing to take the risk to give this a try once.
+
+I used a mini silicone dildo, a glass dildo, and a stainless steel dildo. (I was too scared to use a real silicone dildo incase the lube wouldn't wash off. Since it's a mini, I did not insert it.) The PTFE lubricant performs similarly to an oil based lube but it doesn't feel oily. There's a strange dryness about it that feels a bit alien and like I'm doing something wrong, going against the laws of the lube universe. It washes off under soap and water about as easily as a silicone lube. I did not have any adverse reaction to the lubricant nor did it cause any issues to any of the toys.
+
+Given the exorbitant price (≈$20/floz or $0.68/ml) and mediocre performance, I can confidently say that you don't need to be using this as a sex lube. Use oil based or silicone based lubes instead.
 
 ### Greases
 
