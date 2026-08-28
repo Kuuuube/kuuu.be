@@ -70,7 +70,7 @@ Being aware of the dangers dealing with volatile silicone oils is also important
 
 ## Types of lube
 
-For the sake of being thorough, this list includes some notes on lubricants that are not body safe. Do not use random lubricating substances as sex lubes. When sourcing ingredients, ensure they are food grade or cosmetic grade and approved for mucous membrane contact.
+For the sake of being thorough, this list includes some notes on lubricants that are not body safe. Do not use random lubricating substances as sex lubes. When sourcing lubricants or ingredients, ensure they are food grade or cosmetic grade and approved for mucous membrane contact.
 
 ### Water
 
@@ -78,7 +78,15 @@ For the sake of being thorough, this list includes some notes on lubricants that
 
 ### Oil
 
+Oil based lubes dont dry out, stick well to skin, and resist water but wash off easily with soap. They tend to be less slick than water based lubes but similar to silicone lubes.
 
+Many oils can be great for a sex lubricant but others are highly unsafe. Many essential oils are unsafe for skin contact, mucous membrane contact, or use in high concentrations. Some oils are only okay for external use as massage or stroking oils.
+
+Contrary to what many believe, silicone is not impervious to oil based lubes (nor is it [non-porous](./lubemaking.md#porosity)). Similar to how silicone oil from silicone lubes can cause silicone to swell, many other oils can have this effect too. However, this is not a one-way process, oils can go in but they can also go out. Permanent deformation due to swelling only occurs in extreme circumstances such as letting oil sit on the toy constantly or from using highly incompatible oils. (Coconut oil is one of the least problematic oils.)
+
+Coconut oil is the most well regarded oil for a sex lube. The only other oils I found to be used as primary ingredients in products intended for internal use were sunflower seed oil, shea butter, and cocoa butter. Generally, oil based lubes using these oils appear to be safe but are sometimes recommended against for vaginal use.
+
+Note that oil based lubes can [**break latex and polyisoprene condoms**](https://phallophilereviews.com/condoms-and-sex-toys-safety/#oil-based-lubricant-and-condoms-dont-mix). When using oil based lube on condoms, ensure the material is compatible.
 
 ### Silicone
 
@@ -121,3 +129,12 @@ Solid PTFE is another notable dry lubricant but doesn't seem useful in this case
 ## Testing
 
 
+
+
+## Notes
+
+### Porosity
+
+Technically there are almost no non-porous materials. Even solid stainless steel is porous. But for the purposes of sex toys, there are two porosity related issues that matter: whether bacteria or viruses can go inside the toy (which makes thorough cleaning effectively impossible) and whether smelly molecules or lubricants can penetrate the toy.
+
+In the case of stainless steel, it is non-porous by both of these metrics. The same goes for glass. But silicone is only non-porous in terms of bacteria and viruses. Silicone is a safe material to use for sex toys not because it is non-porous by all useful metrics but because it is non-porous in reference to bacteria and viruses. This is why you can end up with silicone toys that have a smell even after washing, some tiny smelly molecules got caught in the pores of the silicone. (Airing out the toy in a well ventilated area typically makes smells go away quickly.) And this is also why silicone lubes can cause silicone toys to swell.
