@@ -68,6 +68,93 @@ Unlike water based lubes which are an easy win on price since water is cheap, si
 
 Being aware of the dangers dealing with volatile silicone oils is also important. Volatiles are typically included in low quantities in silicone lubes to enhance performance. Not all silicone oils are volatile but ones that are may evaporate at room temperature and combust at a relatively low temperature. Read the safety data sheets, have the proper PPE, and be prepared for anything that could go wrong.
 
+## Making water based lubes
+
+Water based lubes are by far the easiest and cheapest to make.
+
+### Picking your thickener
+
+There are many different thickeners to choose from. These are my notes on thickeners, much of this is from my personal experience testing.
+
+Carboxymethylcellulose (CMC):
+- Hydrates fast
+- Works well in small quantities
+- Shear thinning
+- Clear solution when fully settled
+- Stable in solution
+
+Hydroxyethylcellulose (HEC):
+- Hydrates fast or slow (if R-grade)
+- Works well in small quantities
+- Shear thinning
+- Clear solution when fully settled
+- Stable in solution
+
+Guar Gum (Cyamopsis):
+- Hydrates fast
+- Works well in small quantities
+- Shear thinning
+- Translucent white solution when fully settled
+- Not stable in solution, split after a few days possibly due to inadequate preservatives
+
+Polyethelene Oxide (PEO):
+- Hydrates fast
+- Works well in small quantities
+- Shear thinning
+- Clear solution when fully settled
+- Super stringy when high molecular weight (eg. X-Lube powder)
+- Low molecular weight variants are called Polyethelene Glycol or PEG
+
+### Picking your preservatives
+
+Handling undiluted preservatives tends to be the most dangerous part of making a lube, even if the preservatives are mild in solution. Wear proper PPE. At minimum, have eye protection and gloves. Read the material safety data sheets and be prepared for anything that could go wrong.
+
+I am not an expert on preservatives in cosmetics or lubes. The following is correct to the best of my ability. Please double-check and do your own research before putting potentially harmful substances in your body. Remember that preservatives are meant to kill living organisms, preservatives used in the wrong quantities or mixes can be toxic to the human body. And be careful if you go without a preservative, they exist for our safety, using a lube with bacterial growth in it is far more harmful than correctly formulated preservatives.
+
+No preservative:
+- Some lubes last just a few days before spoiling depending on the ingredients. Typically, a lube can last a few weeks to a few months.
+- There is nothing to fight off bacteria from contamination.
+
+    For example, if the lube is used for anal and the bottle touches against a toy, anus, or contaminated hand, it may now be unsafe to use for vaginal or oral insertions.
+
+Potassium Sorbate, Sodium Benzoate, Citric Acid:
+- Effective pH range: <5, most active pH: ≈3.
+- Do not use potassium sorbate or sodium benzoate in a neutral pH solution and expect it to be effective.
+- Citric acid is not entirely necessary but is a popular and safe way of dropping the pH for vaginal use and the use of these preservatives.
+
+Phenoxyethanol, Ethylhexylglycerin:
+- Effective pH range: 3-10
+- Phenoxyethanol usage in cosmetics (including those with mucous membrane contact) in the EU is capped at 1%. More than 1% or even close to 1% should never be required for a lube.
+- Phenoxyethanol may be paired with Ethylhexylglycerin to be an effective broad spectrum preservative (Phenoxyethanol alone is mostly for gram-negative bacteria).
+
+    A 90:10 ratio of Phenoxyethanol to Ethylhexylglycerin is available premixed by many vendors and sold as PE 9010.
+
+Preservative regulation lists:
+- [EU ECHA: Cosmetic Products Regulation, Annex V - Allowed Preservatives](https://echa.europa.eu/cosmetics-preservatives)
+
+Misc:
+- [Whole Foods: Cosmetics Banned Ingredients List](https://www.wholefoodsmarket.com/quality-standards/beauty-body-care-standards) and [Whole Foods: 2017 Supplier Quality Standards List](https://www.makingskincare.com/wp-content/uploads/2018/08/wholefoods-natural-Body-Premium-Standard.pdf)
+
+    While Whole Foods obviously is not a regulatory body, it may be worth checking against this banned ingredients list before using an ingredient. They tend to ban things for a good reason.
+
+    Whole Foods doesnt typically make their full acceptable/unacceptable ingredient lists public. The list from 2017 is a bit old but may be useful to reference.
+- [Making Skincare: Preservative Reviews](https://makingskincare.com/preservatives/)
+
+### Colorants and color additives
+
+These are completely optional. If you want your lube to look like cum, blood, monster slime, or some other fluid, you may need a colorant. For cum, simply making a hybrid water/silicone lube rather than adding a colorant may give the desired white color due to the differing refractive indexes.
+
+Be VERY careful when selecting colorants, there are plenty of pigments that are completely toxic, can only be used externally, can only be used on certain areas of the body, or have conflicting approval between FDA and EU regulations. Do not assume natural colorants are safer than synthetics. To ensure your lube is safe, I recommend checking both the FDA and EU regulations regarding color additives or colorants that are approved for cosmetic use around the eyes, mouth (lipstick), and mucous membranes.
+
+Colorant regulation lists:
+- [FDA: Color Additives Permitted for Use in Cosmetics](https://www.fda.gov/cosmetics/cosmetic-ingredient-names/color-additives-permitted-use-cosmetics)
+- [FDA: Regulatory Status of Color Additives in Cosmetics](https://hfpappexternal.fda.gov/scripts/fdcc/?set=ColorAdditives&sort=Sort_Unique_ID&order=ASC&startrow=1&type=column&search=Use-current%C2%A4VARCHAR%C2%A4cosmetics)
+- [EU ECHA: Cosmetic Products Regulation, Annex IV - Allowed Colorants](https://echa.europa.eu/cosmetics-colorant)
+
+Additional resources:
+- [FDA: Color Additives and Cosmetics: Fact Sheet](https://www.fda.gov/industry/color-additives/color-additives-and-cosmetics-fact-sheet)
+- [FDA: How Safe are Color Additives?](https://www.fda.gov/consumers/consumer-updates/how-safe-are-color-additives)
+
 ## Example recipes
 
 
