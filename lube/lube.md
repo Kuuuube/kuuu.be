@@ -10,7 +10,7 @@ For the sake of being thorough, this list includes some notes on lubricants that
 
 ### Oil
 
-Oil based lubes dont dry out, stick well to skin, and resist water but wash off easily with soap. They tend to be less slick than water based lubes but similar to silicone lubes.
+Oil based lubes don't dry out, stick well to skin, and resist water but wash off easily with soap. They tend to be less slick than water based lubes but similar to silicone lubes.
 
 Many oils can be great for a sex lubricant but others are highly unsafe. Many essential oils are unsafe for skin contact, mucous membrane contact, or use in high concentrations. Some oils are only okay for external use as massage or stroking oils.
 
