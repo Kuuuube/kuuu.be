@@ -155,6 +155,43 @@ Additional resources:
 - [FDA: Color Additives and Cosmetics: Fact Sheet](https://www.fda.gov/industry/color-additives/color-additives-and-cosmetics-fact-sheet)
 - [FDA: How Safe are Color Additives?](https://www.fda.gov/consumers/consumer-updates/how-safe-are-color-additives)
 
+### Mixing
+
+#### Bad things we don't want
+- Bubbles. In thicker lubes this is much more of an issue as they can take days to fully settle out and may create an undesirable texture until settled.
+- Agglomerates. These are clusters of thickened gel that shield the center powder from hydrating. Typically agglomerates will eventually hydrate but it can take awhile. If you get agglomerates, check back in a few hours and they may disappear.
+- Chopping up molecules. When using high molecular weight polymers such as Polyethelene Oxide, it is important to not use high shear mixing since it can chop up and destroy the long molecular chains.
+
+#### Types of mixing
+
+Shaking in a bottle:
+- Low shear mixing.
+- Requires "babysitting" when using a slow hydrating powder.
+- Makes an enormous amount of bubbles.
+- Requires significant speed and physical exersion to mix fast hydrating powders with zero agglomerates especially at high thickener percents.
+- Zero cost as long as you're able bodied or have someone who is that can help.
+
+Vortex mixers:
+- Low shear mixing.
+- Not ideal for fast hydrating powders due to gentle mixing even at high speeds.
+- Minimal bubble formation.
+- Decently cheap.
+
+Magnetic stirrers:
+- Low shear mixing.
+- Not ideal for fast hydrating powders due to gentle mixing even at high speeds.
+- May struggle to mix high thickness gels.
+- Can be integrated with a hotplate for easily mixing ingredients that need to be heated.
+- Minimal bubble formation.
+- Decently cheap.
+
+Ultrasonic homogenizers:
+- Used for creating high stability emulsifications, longer lasting unstable emulsifications, or emulsifications with extremely small droplet sizes.
+- Useful for making hybrid lubes.
+- Very expensive.
+
+![](./assets/ultrasonic_mixer.gif)
+
 ## Example recipes
 
 
