@@ -116,6 +116,7 @@ No preservative:
 - There is nothing to fight off bacteria from contamination.
 
     For example, if the lube is used for anal and the bottle touches against a toy, anus, or contaminated hand, it may now be unsafe to use for vaginal or oral insertions.
+- Unacceptable for water based lubes intended for commercial sale. While the sales or marketing department might be giddy at the idea of slapping "preservative free" on the bottle, it is incredibly irresponsible and may cause legal trouble to sell a water based sex lube without any preservative.
 
 Potassium Sorbate, Sodium Benzoate, Citric Acid:
 - Effective pH range: <5, most active pH: ≈3.
