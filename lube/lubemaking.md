@@ -175,7 +175,7 @@ Shaking in a bottle:
 Vortex mixers:
 - Low shear mixing.
 - Not ideal for fast hydrating powders due to gentle mixing even at high speeds.
-- Minimal bubble formation.
+- Minimal bubble formation but can create foam if used suboptimally.
 - Decently cheap.
 
 Magnetic stirrers:
