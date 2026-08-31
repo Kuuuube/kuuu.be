@@ -169,6 +169,14 @@ Misc:
     Whole Foods doesnt typically make their full acceptable/unacceptable ingredient lists public. The list from 2017 is a bit old but may be useful to reference.
 - [Making Skincare: Preservative Reviews](https://makingskincare.com/preservatives/)
 
+### Humectants
+
+These are added to keep water based lubes wet. But are controversial due to the common resulting [unsafe high osmolality](https://phallophilereviews.com/ph-balanced-lubricant-guide-safety/#why-some-popular-lubricants-are-unsafe). This means they can suck water out of cells, leaving the tissue dried out. Some people also report [stinging and irritation](https://www.ahyes.org/blogs/ingredients/why-does-my-lube-sting-the-osmolality-problem-nobody-explains). There are safe thresholds for osmolality but unfortunately it isn't simple to test a lube's osmolality, [an osmometer is required](https://www.fishersci.com/us/en/browse/90207019/Osmometers) which can be very expensive.
+
+The most common humectants for lube are Propanediol, Glycerin, and Propylene Glycol (not to be confused with Polyethelene Glycol).
+
+I will not be providing guidance on how to use humectants. Although most lubes use these, I recommend against it. If you do choose to use a humectant, do it in the minimum quantity required to achieve the result you desire.
+
 ### Colorants and color additives
 
 These are completely optional. If you want your lube to look like cum, blood, monster slime, or some other fluid, you may need a colorant. For cum, simply making a hybrid water/silicone lube rather than adding a colorant may give the desired white color due to the differing refractive indexes.
