@@ -245,7 +245,7 @@ Ultrasonic homogenizers:
 
 ## Example recipes
 
-### Two ingredient lube
+### Two-ish ingredient lube
 
 At its most basic form, water based lube can be made solely from water and a thickener. The lube can be mixed in a single bottle.
 
@@ -255,10 +255,13 @@ You will need to experiment to find the exact thickener percent that you prefer.
 |---------------------------------------------------------------------------------------|--------|
 | Water                                                                                 | 97-99% |
 | Thickener of your choice. See: [Picking your thickener](#picking-your-thickener)      |  1-3%  |
+| Citric acid (if you intend to use this lube vaginally)                                |   ?%   |
 
 Instructions:
 1. Get a bottle with a cap that can hold twice the quantity of lube you plan on making.
 2. Weigh out the water into the bottle. Weigh out the lube onto a weigh boat or small piece of paper.
+
+    If you plan on making this a vaginal lube, [pH balance](#ph-balancing) your water now using the citric acid, before the thickener is added.
 3. Swiftly pour the thickener into the water, cap the bottle, and shake it vigorously for 30 seconds.
 
     This step is very time sensitive for fast hydrating powders, if you make a mistake or spill some powder outside the bottle, ignore it and continue. Clean up and re-evaluate your process after shaking.
