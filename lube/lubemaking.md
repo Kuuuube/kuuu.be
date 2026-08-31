@@ -1,5 +1,7 @@
 # Lubemaking
 
+I am not a professional lube formulator. This guide is based on my personal research and experiments. If you find a mistake, have a comment, or want to contact me for some reason, send me an [email](mailto:kuuube@kuuu.be).
+
 ## Should you make your own lube?
 
 Maybe. Here's a few reasons you should and shouldn't make your own lube:
