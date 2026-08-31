@@ -72,6 +72,31 @@ Being aware of the dangers dealing with volatile silicone oils is also important
 
 Water based lubes are by far the easiest and cheapest to make.
 
+### Picking your water
+
+Water can make a big difference in the end result of a water based lube, not all water is the same. The purest possible water is not necessary. I recommend using purified bottled water or equivalent.
+
+Tap water:
+- If your tap water isn't drinkable, don't even think about using it for lube.
+- Some ingredients may unfavorably interact with or degrade when added to tap water. In particular, chlorine often causes issues.
+- pH may vary, keep this in mind if you need to do pH balancing.
+- May create lube that has a shorter shelf life.
+
+Filtered/purified tap water:
+- Purity and remaining chemicals or minerals depend on your filtration or purification system.
+- pH may vary, similar to plain tap water.
+
+Bottled spring/mountain/iceberg/whatever water:
+- The same as tap water minus water treatment chemicals such as chlorine.
+- Depending on the collection location, the pH and mineral content can differ.
+
+Purified bottled drinking water:
+- Depending on the purification methods, this can produce extremely pure water (reverse osmosis is typical). Most bottled waters add minerals back into their water after purification.
+- Should have a consistent pH and mineral content. Unlikely to include chemicals that will degrade lube ingredients.
+
+Distilled water:
+- Pure water. About the same as reverse osmosis purification but unlike drinking water, it won't have added minerals.
+
 ### Picking your thickener
 
 There are many different thickeners to choose from. These are my notes on thickeners, much of this is from my personal experience testing.
