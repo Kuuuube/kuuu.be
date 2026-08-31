@@ -22,7 +22,7 @@ Note that oil based lubes can [**break latex and polyisoprene condoms**](https:/
 
 ### Silicone
 
-Similar to oil based lubes, silicone based lubes don't dry out and stick well to skin. They are typically harder to wash off and are also not as slick as water based lubes.
+Similar to oil based lubes, silicone based lubes don't dry out and stick well to skin. They are typically harder to wash off and not as slick as water based lubes.
 
 
 
