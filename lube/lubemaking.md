@@ -229,6 +229,11 @@ Blender or food processor:
 - May struggle to mix high thickness gels.
 - Medium price but many kitchens already have one.
 
+Immersion blender:
+- High shear mixing.
+- Typical kitchen immersion blenders may struggle to mix high thickness gels.
+- Decently cheap.
+
 Ultrasonic homogenizers:
 - Used for creating high stability emulsifications, longer lasting unstable emulsifications, or emulsifications with extremely small droplet sizes.
 - Useful for making hybrid lubes.
