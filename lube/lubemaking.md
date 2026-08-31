@@ -196,6 +196,8 @@ Additional resources:
 
 The most common use case for pH balancing is creating a lube that matches the vaginal pH range of 3.8-4.5 (as opposed to a pH of 6-8 in the rectum). Anal or external lubes typically do not need pH adjustment. If you need a lube for both vaginal and anal use, pH balance it for vaginal. But beware that people with sensitive rectums may feel an uncomfortable stinging sensation when using a lower pH lube anally.
 
+You will need a pH meter or pH test strips to test the pH at various points during the process. I do not recommend buying a super cheap digital pH meter, buy test strips if you need a cheap option.
+
 Decreasing the pH is usually done by adding citric acid. Citric acid can VERY quickly drop the pH of a solution, be careful to measure the pH and ensure it matches the expected level. As little as 0.1-0.5g for 1 liter may be enough but it can depend on the water being used. Add the acid in multiple parts and measure the pH as you go.
 
 Keep in mind that other ingredients may also change the pH. Citric acid should be doing the vast majority of the work but the pH should be checked after adding other ingredients to ensure it's within an acceptable range. Cellulose thickeners shouldn't change the pH, you should balance your solution before adding them as it will be much harder to mix thoroughly after adding a thickener.
