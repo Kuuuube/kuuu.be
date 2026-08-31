@@ -18,9 +18,7 @@ Beyond water based or hybrid water based lubes, it is usually still cheaper to m
 
 It is convenient to place an order for lube online or drop by a store and pick some up with no hassle. Or is it? What if the store is out of stock? What if the shipping times are longer than you'd like?
 
-For the hassle of mixing the lube, you gain the ability to make any amount at nearly a moment's notice. A water based lube can be ready to use within an hour, start to finish.
-
-Traveling and want to bring along some lube? A tiny pre-measured packet of powder that can be added to a bottle of water later is much easier to bring than a bottle of lube (especially when traveling by air).
+For the hassle of mixing the lube, you gain the ability to make any amount at nearly a moment's notice. A water based lube can be mixed and ready to use within an hour, start to finish.
 
 ### Risk
 
@@ -99,7 +97,7 @@ Distilled water:
 
 ### Picking your thickener
 
-There are many different thickeners to choose from. These are my notes on thickeners, much of this is from my personal experience testing.
+There are many different thickeners to choose from. These are my notes on thickeners, much of this is from tests I have personally conducted. There are many other viable thickeners not listed here.
 
 Carboxymethylcellulose (CMC):
 - Hydrates fast
@@ -139,7 +137,7 @@ Handling undiluted preservatives tends to be the most dangerous part of making a
 I am not an expert on preservatives in cosmetics or lubes. The following is correct to the best of my ability. Please double-check and do your own research before putting potentially harmful substances in your body. Remember that preservatives are meant to kill living organisms, preservatives used in the wrong quantities or mixes can be toxic to the human body. And be careful if you go without a preservative, they exist for our safety, using a lube with bacterial growth in it is far more harmful than correctly formulated preservatives.
 
 No preservative:
-- Some lubes last just a few days before spoiling depending on the ingredients. Typically, a lube can last a few weeks to a few months but it depends on the formulation and if it gets contaminated.
+- Some lubes last just a few days before spoiling depending. Typically, a lube can last a few weeks to a few months but it depends on the formulation and if it gets contaminated.
 - There is nothing to fight off bacteria from contamination.
 
     For example, if the lube is used for anal and the bottle touches against a toy, anus, or contaminated hand, it may now be unsafe to use for vaginal or oral insertions.
