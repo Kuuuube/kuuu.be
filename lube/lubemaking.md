@@ -72,7 +72,7 @@ Being aware of the dangers dealing with volatile silicone oils is also important
 
 Water based lubes are by far the easiest and cheapest to make.
 
-### Picking your water
+### Water
 
 Water can make a big difference in the end result of a water based lube, not all water is the same. The purest possible water is not necessary. I recommend using purified bottled water or equivalent.
 
@@ -97,7 +97,7 @@ Purified bottled drinking water:
 Distilled water:
 - Pure water. About the same as reverse osmosis purification but unlike drinking water, it won't have added minerals.
 
-### Picking your thickener
+### Thickener
 
 There are many different thickeners to choose from. These are my notes on thickeners, much of this is from tests I have personally conducted. There are many other viable thickeners not listed here.
 
@@ -132,7 +132,7 @@ Polyethelene Oxide (PEO):
 - May degrade and not function properly in slightly acidic solutions. Keep the pH very close to neutral, around 6.5-7.
 - Stable in solution
 
-### Picking your preservatives
+### Preservatives
 
 Handling undiluted preservatives tends to be the most dangerous part of making a lube, even if the preservatives are mild in solution. Wear proper PPE. At minimum, have eye protection and gloves. Read the material safety data sheets and be prepared for anything that could go wrong.
 
