@@ -157,6 +157,14 @@ Additional resources:
 - [FDA: Color Additives and Cosmetics: Fact Sheet](https://www.fda.gov/industry/color-additives/color-additives-and-cosmetics-fact-sheet)
 - [FDA: How Safe are Color Additives?](https://www.fda.gov/consumers/consumer-updates/how-safe-are-color-additives)
 
+### pH balancing
+
+The most common use case for pH balancing is creating a lube that matches the vaginal pH range of 3.8-4.5 (as opposed to a pH of 6-8 in the rectum).
+
+Decreasing the pH is usually done by adding citric acid. Citric acid can VERY quickly drop the pH of a solution, be careful to measure the pH and ensure it matches the expected level. As little as 0.1-0.5g for 1 liter may be enough but it can depend on the water being used. Add the acid in multiple parts and measure the pH as you go.
+
+Keep in mind that other ingredients may also change the pH. Citric acid should be doing the vast majority of the work but the pH should be checked after adding other ingredients to ensure it's within an acceptable range. Cellulose thickeners shouldn't change the pH, you should balance your solution before adding them as it will be much harder to mix thoroughly after adding a thickener.
+
 ### Mixing
 
 #### Bad things we don't want
