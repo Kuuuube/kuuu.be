@@ -259,7 +259,7 @@ You will need to experiment to find the exact thickener percent that you prefer.
 
 Instructions:
 1. Get a bottle with a cap that can hold twice the quantity of lube you plan on making.
-2. Weigh out the water into the bottle. Weigh out the lube onto a weigh boat or small piece of paper.
+2. Weigh out the water into the bottle. Weigh out the thickener onto a weigh boat or small piece of paper.
 
     If you plan on making this a vaginal lube, [pH balance](#ph-balancing) your water now using the citric acid, before the thickener is added.
 3. Swiftly pour the thickener into the water, cap the bottle, and shake it vigorously for 30 seconds.
