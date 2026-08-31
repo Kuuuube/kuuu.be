@@ -202,6 +202,8 @@ Keep in mind that other ingredients may also change the pH. Citric acid should b
 
 #### Types of mixing
 
+For your first batch of lube, I recommend mixing it in a bottle. Fill the bottle roughly 50% full to ensure plenty of room for mixing.
+
 Shaking in a bottle:
 - Low shear mixing.
 - Requires "babysitting" when using a slow hydrating powder.
