@@ -104,6 +104,8 @@ Polyethelene Oxide (PEO):
 - Clear solution when fully settled
 - Super stringy when high molecular weight (eg. X-Lube powder)
 - Low molecular weight variants are called Polyethelene Glycol or PEG
+- May degrade and not function properly in slightly acidic solutions. Keep the pH very close to neutral, around 6.5-7.
+- Stable in solution
 
 ### Picking your preservatives
 
