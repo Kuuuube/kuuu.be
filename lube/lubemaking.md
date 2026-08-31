@@ -177,6 +177,7 @@ Vortex mixers:
 - Low shear mixing.
 - Not ideal for fast hydrating powders due to gentle mixing even at high speeds.
 - Minimal bubble formation but can create foam if used suboptimally.
+- Not intended for long mixing times. Good for quick bursts.
 - Decently cheap.
 
 Magnetic stirrers:
