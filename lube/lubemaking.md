@@ -198,6 +198,7 @@ Keep in mind that other ingredients may also change the pH. Citric acid should b
 - Bubbles. In thicker lubes this is much more of an issue as they can take days to fully settle out and may create an undesirable texture until settled.
 - Agglomerates. These are clusters of thickened gel that shield the center powder from hydrating. Typically agglomerates will eventually hydrate but it can take awhile. If you get agglomerates, check back in a few hours and they may disappear.
 - Chopping up molecules. When using high molecular weight polymers such as Polyethelene Oxide, it is important to not use high shear mixing since it can chop up and destroy the long molecular chains.
+- Overfilled containers. Almost all mixing methods degrade significantly when you use a container that is highly filled (75-100% full).
 
 #### Types of mixing
 
