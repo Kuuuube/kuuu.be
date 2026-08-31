@@ -224,7 +224,7 @@ Magnetic stirrers:
 - Minimal bubble formation.
 - Decently cheap.
 
-Blender or food processor:
+Kitchen blender or food processor:
 - High shear mixing.
 - May struggle to mix high thickness gels.
 - Medium price but many kitchens already have one.
