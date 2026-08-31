@@ -97,7 +97,7 @@ Purified bottled drinking water:
 Distilled water:
 - Pure water. About the same as reverse osmosis purification but unlike drinking water, it won't have added minerals.
 
-### Thickener
+### Thickeners
 
 There are many different thickeners to choose from. These are my notes on thickeners, much of this is from tests I have personally conducted. There are many other viable thickeners not listed here.
 
