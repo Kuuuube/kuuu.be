@@ -223,6 +223,11 @@ Magnetic stirrers:
 - Minimal bubble formation.
 - Decently cheap.
 
+Blender or food processor:
+- High shear mixing.
+- May struggle to mix high thickness gels.
+- Medium price but many kitchens already have one.
+
 Ultrasonic homogenizers:
 - Used for creating high stability emulsifications, longer lasting unstable emulsifications, or emulsifications with extremely small droplet sizes.
 - Useful for making hybrid lubes.
