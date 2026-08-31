@@ -243,7 +243,27 @@ Ultrasonic homogenizers:
 
 ## Example recipes
 
+### Two ingredient lube
 
+At its most basic form, water based lube can be made solely from water and a thickener. The lube can be mixed in a single bottle.
+
+You will need to experiment to find the exact thickener percent that you prefer. Different brands, grades, and types of thickeners will all perform slightly differently. The 1-3% range is given as a starting guide but if you want a thin near-water viscosity or a thick gel viscosity, going outside this range may be necessary. Viscosity tends to scale exponentially with the amount of thickener added.
+
+| Ingredients                                                                           |   %    |
+|---------------------------------------------------------------------------------------|--------|
+| Water                                                                                 | 97-99% |
+| Thickener of your choice. See: [Picking your thickener](#picking-your-thickener)      |  1-3%  |
+
+Instructions:
+1. Get a bottle with a cap that can hold twice the quantity of lube you plan on making.
+2. Weigh out the water into the bottle. Weigh out the lube onto a weigh boat or small piece of paper.
+3. Swiftly pour the thickener into the water, cap the bottle, and shake it vigorously for 30 seconds.
+
+    This step is very time sensitive for fast hydrating powders, if you make a mistake or spill some powder outside the bottle, ignore it and continue. Clean up and re-evaluate your process after shaking.
+
+    If the solution has not thickened at all during this time and you can still see powder in the water, you likely have a slow hydrating powder. Skip the next step and agitate gently until it thickens. Some slow hydrating powders can take 30-60 minutes to hydrate.
+4. Wait 10 minutes and shake for 30 seconds again.
+5. Let the lube sit for 1-2 hours. Depending on the thickness of the lube, it may take hours or days for the bubbles to settle out fully but the lube is ready to use even if there are still bubbles present.
 
 ## Deformulation
 
