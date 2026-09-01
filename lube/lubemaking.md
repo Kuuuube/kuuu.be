@@ -246,12 +246,25 @@ Immersion blender:
 - Typical kitchen immersion blenders may struggle to mix high thickness gels.
 - Decently cheap.
 
-Ultrasonic homogenizers:
-- Used for creating high stability emulsions, longer lasting unstable emulsions, or emulsions with extremely small droplet sizes.
-- Useful for making hybrid lubes.
-- Very expensive.
+## Making hybrid water based lubes
+
+There is a misconception that hybrid lubes require specialized equipment such as an ultrasonic homogenizer to make. But in actuality, you only need the correct ingredients.
+
+While ultrasonic homogenizers are awesome and can create emulsions with extremely small droplet sizes or make unstable dispersions last a long time, it isn't necessary to make a high performance hybrid lube. An ultrasonic homogenizer mixing oil and water:
 
 ![](./assets/ultrasonic_mixer.gif)
+
+I'm certainly not an expert in making emulsions or dispersions but I have successfully made stable hybrid lubes without any special equipment.
+
+Technically, emulsions and dispersions are never stable. Theyre "metastable" which means that given enough time they should eventually split, even if it takes a million years. There is also a difference between an emulsion and a dispersion. A dispersion is stable only due to the viscosity of the solution it is in whereas an emulsion will be stable even if the viscosity changes due to dilution. For the purposes of a lube, a true emulsion is not necessary since thickeners will be added and it will not be diluted.
+
+### Surfactants
+
+
+
+### Silicone oils
+
+
 
 ## Example recipes
 
