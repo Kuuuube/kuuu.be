@@ -148,6 +148,8 @@ No preservative:
 
 Potassium Sorbate, Sodium Benzoate, Citric Acid:
 - Effective pH range: <5, most active pH: ≈3.
+- Potassium sorbate [is allowed up to 0.6% in cosmetics in the EU](https://echa.europa.eu/cosmetics-preservatives/-/legislationlist/details/EU-COSM_PROD-ANX_V_ALLOW_PRESERV-100.042.145-VSK-53C0B3). Typical usage is 0.1-0.2%.
+- Sodium benzoate [is considered safe in the EU for rinse-off products up to 2.5%, cosmetic oral-care products up to 1.7%, and leave-on products up to 0.5%](https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf). Typical usage is 0.1-0.2%.
 - Do not use potassium sorbate or sodium benzoate in a neutral pH solution and expect it to be effective.
 - Citric acid is not entirely necessary but is a popular and safe way of dropping the pH for vaginal use and the use of these preservatives.
 
