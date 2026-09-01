@@ -10,7 +10,7 @@ Maybe. Here's a few reasons you should and shouldn't make your own lube:
 
 The initial cost to start making your own lube can be high, especially when making a more complex lube than a basic water based one. If you don't use a lot of lube or don't like the idea of buying a potentially lifetime supply of ingredients this may not be for you.
 
-On the other hand, it is often possible to make 5-10+ gallons (≈20-40 liters) of lube for the same price as a 4-8oz (≈120-250ml) bottle of storebought lube. Water based (and hybrid water based) lubes are incredibly inexpensive to produce.
+On the other hand, it is often possible to make 5-10+ gallons (≈20-40 liters) of lube for the same price as a 4-8oz (≈120-250ml) bottle of store bought lube. Water based (and hybrid water based) lubes are incredibly inexpensive to produce.
 
 When buying water based lube, a large part of the price is the logistics required for shipping around water and some padding on the company's revenue. Lube does not have even close to the economy of scale that bottled water has even though the cost in ingredients required to make both are almost identical. You can turn an entire [40 pack of purified bottled water](./assets/bottled_purified_water_40_pack.jpg) into high quality water based lube for <$10 in ingredients. This quantity of lube bought from a store could cost thousands of dollars.
 
@@ -36,7 +36,7 @@ Even beyond manufacturers making unsafe formulations, production issues from rep
 
 If you have the recipe for the lube you like, no company decision can decide to get rid of that product. You can have troubles with suppliers of raw ingredients but it is much easier to continue production (or reformulate in the worst case) when you've developed the lube yourself.
 
-You also are likely to have a significant amount of raw materials on hand to continue making your lube for awhile even if it becomes impossible to obtain an ingredient. This shields you from temporary supplychain problems more strongly than most large volume productions are able to shield themselves.
+You also are likely to have a significant amount of raw materials on hand to continue making your lube for awhile even if it becomes impossible to obtain an ingredient. This shields you from temporary supply chain problems more strongly than most large volume productions are able to shield themselves.
 
 ## Types of lube you should not make at home
 
@@ -46,7 +46,7 @@ Even if you think you're up to the task of making lube, there are some types of 
 
 These are used for surgical and medical procedures where the lubricant being sterile is critical. Some example uses include: insertion of urethral catheters and medical examination of the vagina or rectum. Among others, a few popular lubes in this category are: Surgilube, Dynalube, McKesson Lubricating Jelly, Aquagel, Bonnaqua Jelly, K-Y Jelly (note that K-Y makes many similarly named lubricants which are not sterile), HR Lubricating Jelly, and Medline Lubricating Jelly.
 
-In masturbation or sexual acts, these commonly get used for sounding or uretheral insertions due to the increased risk of infection in those areas compared to the vagina or rectum.
+In masturbation or sexual acts, these commonly get used for sounding or urethral insertions due to the increased risk of infection in those areas compared to the vagina or rectum.
 
 While copying these recipes is certainly doable, it is not as easy to ensure a sterile environment and end product. Medical lubricants also tend to be much cheaper than standard sex lubricants due to the medical industry needing large amounts of them. The opportunity to save money is lower and the risk is far higher.
 
@@ -122,13 +122,13 @@ Guar Gum (Cyamopsis):
 - Translucent white solution when fully settled
 - Not stable in solution, split after a few days possibly due to inadequate preservatives
 
-Polyethelene Oxide (PEO):
+Polyethylene Oxide (PEO):
 - Hydrates fast
 - Works well in small quantities
 - Shear thinning
 - Clear solution when fully settled
 - Super stringy when high molecular weight (eg. X-Lube powder)
-- Low molecular weight variants are called Polyethelene Glycol or PEG
+- Low molecular weight variants are called Polyethylene Glycol or PEG
 - May degrade and not function properly in slightly acidic solutions. Keep the pH very close to neutral, around 6.5-7.
 - Stable in solution
 
@@ -166,14 +166,14 @@ Misc:
 
     While Whole Foods obviously is not a regulatory body, it may be worth checking against this banned ingredients list before using an ingredient. They tend to ban things for a good reason.
 
-    Whole Foods doesnt typically make their full acceptable/unacceptable ingredient lists public. The list from 2017 is a bit old but may be useful to reference.
+    Whole Foods doesn't typically make their full acceptable/unacceptable ingredient lists public. The list from 2017 is a bit old but may be useful to reference.
 - [Making Skincare: Preservative Reviews](https://makingskincare.com/preservatives/)
 
 ### Humectants
 
 These are added to keep water based lubes wet. But are controversial due to the common resulting [unsafe high osmolality](https://phallophilereviews.com/ph-balanced-lubricant-guide-safety/#why-some-popular-lubricants-are-unsafe). This means they can suck water out of cells, leaving the tissue dried out. Some people also report [stinging and irritation](https://www.ahyes.org/blogs/ingredients/why-does-my-lube-sting-the-osmolality-problem-nobody-explains). There are safe thresholds for osmolality but unfortunately it isn't simple to test a lube's osmolality, [an osmometer is required](https://www.fishersci.com/us/en/browse/90207019/Osmometers) which can be very expensive.
 
-The most common humectants for lube are Propanediol, Glycerin, and Propylene Glycol (not to be confused with Polyethelene Glycol).
+The most common humectants for lube are Propanediol, Glycerin, and Propylene Glycol (not to be confused with Polyethylene Glycol).
 
 I will not be providing guidance on how to use humectants. Although most lubes use these, I recommend against it. If you do choose to use a humectant, do it in the minimum quantity required to achieve the result you desire.
 
@@ -207,7 +207,7 @@ Keep in mind that other ingredients may also change the pH. Citric acid should b
 #### Bad things we don't want
 - Bubbles. In thicker lubes this is much more of an issue as they can take days to fully settle out and may create an undesirable texture until settled.
 - Agglomerates. These are clusters of thickened gel that shield the center powder from hydrating. Typically agglomerates will eventually hydrate but it can take awhile. If you get agglomerates, check back in a few hours and they may disappear.
-- Chopping up molecules. When using high molecular weight polymers such as Polyethelene Oxide, it is important to not use high shear mixing since it can chop up and destroy the long molecular chains.
+- Chopping up molecules. When using high molecular weight polymers such as Polyethylene Oxide, it is important to not use high shear mixing since it can chop up and destroy the long molecular chains.
 - Overfilled containers. Almost all mixing methods degrade significantly when you use a container that is highly filled (75-100% full).
 
 #### Types of mixing
@@ -218,7 +218,7 @@ Shaking in a bottle:
 - Low shear mixing.
 - Requires "babysitting" when using a slow hydrating powder.
 - Makes an enormous amount of bubbles.
-- Requires significant speed and physical exersion to mix fast hydrating powders with zero agglomerates especially at high thickener percents.
+- Requires significant speed and physical exertion to mix fast hydrating powders with zero agglomerates especially at high thickener percents.
 - Zero cost as long as you're able bodied or have someone who is that can help.
 
 Vortex mixers:
@@ -256,7 +256,7 @@ While ultrasonic homogenizers are awesome and can create emulsions with extremel
 
 I'm certainly not an expert in making emulsions or dispersions but I have successfully made stable hybrid lubes without any special equipment.
 
-Technically, emulsions and dispersions are never stable. Theyre "metastable" which means that given enough time they should eventually split, even if it takes a million years. There is also a difference between an emulsion and a dispersion. A dispersion is stable only due to the viscosity of the solution it is in whereas an emulsion will be stable even if the viscosity changes due to dilution. For the purposes of a lube, a true emulsion is not necessary since thickeners will be added and it will not be diluted.
+Technically, emulsions and dispersions are never stable. They're "metastable" which means that given enough time they should eventually split, even if it takes a million years. There is also a difference between an emulsion and a dispersion. A dispersion is stable only due to the viscosity of the solution it is in whereas an emulsion will be stable even if the viscosity changes due to dilution. For the purposes of a lube, a true emulsion is not necessary since thickeners will be added and it will not be diluted.
 
 ### Surfactants
 
@@ -275,7 +275,7 @@ Typically, the term "hybrid lube" means a water/silicone oil mix. But it doesn't
 
 ### Water soluble oils
 
-Many hybrid lubes use PEG or PPG dimethicone alongside regular dimethicone. This is silicone oil that has been bonded to PEG (Polyethelene Glycol) to form an amphilic molecule (likes both oil and water) so it can be soluble in water.
+Many hybrid lubes use PEG or PPG dimethicone alongside regular dimethicone. This is silicone oil that has been bonded to PEG (Polyethylene Glycol) to form an amphilic molecule (likes both oil and water) so it can be soluble in water.
 
 ## Example recipes
 
