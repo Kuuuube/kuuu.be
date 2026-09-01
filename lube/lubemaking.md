@@ -155,10 +155,13 @@ Potassium Sorbate, Sodium Benzoate, Citric Acid:
 
 Phenoxyethanol, Ethylhexylglycerin:
 - Effective pH range: 3-10
-- Phenoxyethanol usage in cosmetics (including those with mucous membrane contact) in the EU is capped at 1%. More than 1% or even close to 1% should never be required for a lube.
+- Phenoxyethanol usage in cosmetics (including those with mucous membrane contact) in [the EU](https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf) is [capped at 1%](https://echa.europa.eu/cosmetics-preservatives/-/legislationlist/details/EU-COSM_PROD-ANX_V_ALLOW_PRESERV-100.004.173-VSK-13A7A6). Typical usage is around 0.25-1%.
 - Phenoxyethanol may be paired with Ethylhexylglycerin to be an effective broad spectrum preservative (Phenoxyethanol alone is mostly for gram-negative bacteria).
 
     A 90:10 ratio of Phenoxyethanol to Ethylhexylglycerin is available premixed by many vendors and sold as PE 9010.
+- [Ethylhexylglycerin](https://echa.europa.eu/substance-information/-/substanceinfo/100.100.951) [has no](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32006D0257) [particular restrictions](https://echa.europa.eu/information-on-chemicals/ec-inventory/-/dislist/details/408-080-2).
+
+    It is usually used in combination with phenoxyethanol at a ratio of 90:10 (P:E) but may also be found at a ratio of 80:20.
 
 Preservative regulation lists:
 - [EU ECHA: Cosmetic Products Regulation, Annex V - Allowed Preservatives](https://echa.europa.eu/cosmetics-preservatives)
