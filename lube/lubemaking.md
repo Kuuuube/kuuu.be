@@ -247,7 +247,7 @@ Immersion blender:
 - Decently cheap.
 
 Ultrasonic homogenizers:
-- Used for creating high stability emulsifications, longer lasting unstable emulsifications, or emulsifications with extremely small droplet sizes.
+- Used for creating high stability emulsions, longer lasting unstable emulsions, or emulsions with extremely small droplet sizes.
 - Useful for making hybrid lubes.
 - Very expensive.
 
