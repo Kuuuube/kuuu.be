@@ -32,7 +32,7 @@ But making your own lube could also reduce risk. Sex related industries have lim
 
 Even beyond manufacturers making unsafe formulations, production issues from reputable companies can create [unsafe lube batches](./assets/ppr_sliquid_2026-08-26_14-02-35.png).
 
-## Permanence
+### Permanence
 
 If you have the recipe for the lube you like, no company decision can decide to get rid of that product. You can have troubles with suppliers of raw ingredients but it is much easier to continue production (or reformulate in the worst case) when you've developed the lube yourself.
 
