@@ -304,6 +304,28 @@ Instructions:
 4. Wait 10 minutes and shake for 30 seconds again.
 5. Let the lube sit for 1-2 hours. Depending on the thickness of the lube, it may take hours or days for the bubbles to settle out fully but the lube is ready to use even if there are still bubbles present.
 
+### Barebones hybrid lube
+
+This is identical to [Two-ish ingredient lube](#two-ish-ingredient-lube) except it adds dimethicone and polysorbate 20. I have tested this recipe with 6 cSt (low viscosity) dimethicone.
+
+| Ingredients                                                                           |     %      |
+|---------------------------------------------------------------------------------------|------------|
+| Water                                                                                 | 94.5-92.5% |
+| Polysorbate 20                                                                        |    2.5%    |
+| Dimethicone                                                                           |     2%     |
+| Thickener of your choice. See: [Picking your thickener](#picking-your-thickener)      |    1-3%    |
+| Citric acid (if you intend to use this lube vaginally)                                |     ?%     |
+
+Instructions:
+1. Get a bottle with a cap that can hold twice the quantity of lube you plan on making and a small vial with a cap that will hold about double the polysorbate and dimethicone.
+2. Weigh out the polysorbate and dimethicone into the small vial. Weigh out the water into the bottle. Weigh out the thickener onto a weigh boat or small piece of paper.
+
+    If you plan on making this a vaginal lube, [pH balance](#ph-balancing) your water now using the citric acid, before the thickener is added.
+3. Shake up the vial of polysorbate and dimethicone. It should form a cloudy mix which will separate in about 30 seconds.
+4. Before the polysorbate and dimethicone have separated, add them to the water, shake up the water briefly, and add the thickener. Follow the same final steps as [Two-ish ingredient lube](#two-ish-ingredient-lube) for mixing the thickener.
+
+After bubbles have settled out, the resulting solution should be a translucent white color.
+
 ## Deformulation
 
 I defer to Perry Romanowski's ["How To Knock-Off a Cosmetic Formula"](http://www.scientificspectator.com/documents/personal%20care%20spectator/Duplicating%20a%20Formulation.pdf).
