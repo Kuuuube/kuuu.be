@@ -260,11 +260,22 @@ Technically, emulsions and dispersions are never stable. Theyre "metastable" whi
 
 ### Surfactants
 
+I will not be commenting on the safety of any of these surfactants or exactly how each of them interact due to my limited experience on the subject.
 
+By far the most popular surfactants for making hybrid lubes are polysorbates. There are three major polysorbates: 20, 60, and 80. There are others such as polysorbate 21, 40, 61, 65, 81, and 85 but they are not widely used so I will be ignoring them. Polysorbate 20 and 60 are found in many hybrid lubes whereas the others are not. The lower the number the more hydrophilic (likes water), the higher the number the more lipophilic (likes oils or fats).
+- Polysorbate 20 is best for light oils or small amounts of oil in large amounts of water. It is a thin liquid and can be mixed at room temperature.
+- Polysorbate 60 makes a thicker and higher stability emulsion than polysorbate 20. Less prone to oxidation compared to polysorbate 80. It is a semi-solid wax at room temperature and must be heated into a emulsion.
+- Polysorbate 80 is best for heavy oil emulsions and large amounts. (The silicone oil used in hybrid lubes is typically not heavy and the 1-2% included is not much.)
 
-### Silicone oils
+Other surfactants I've seen in hybrid lubes ordered from most to least common: Glyceryl Stearate, Sorbitan Monostearate, Trideceth-6, PEG-100 Stearate, and Hydrogenated Lecithin.
 
+### Oils
 
+Typically, the term "hybrid lube" means a water/silicone oil mix. But it doesn't have to be silicone, other oils could be mixed as well.
+
+### Water soluble oils
+
+Many hybrid lubes use PEG or PPG dimethicone alongside regular dimethicone. This is silicone oil that has been bonded to PEG (Polyethelene Glycol) to form an amphilic molecule (likes both oil and water) so it can be soluble in water.
 
 ## Example recipes
 
