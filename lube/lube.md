@@ -14,7 +14,7 @@ Oil based lubes don't dry out, stick well to skin, and resist water but wash off
 
 Many oils can be great for a sex lubricant but others are highly unsafe. Many essential oils are unsafe for skin contact, mucous membrane contact, or use in high concentrations. Some oils are only okay for external use as massage or stroking oils.
 
-Contrary to what many believe, silicone is not impervious to oil based lubes (nor is it [non-porous](./lubemaking.md#porosity)). Similar to how silicone oil from silicone lubes can cause silicone to swell, many other oils can have this effect too. However, this is not a one-way process, oils can go in but they can also go out. Permanent deformation due to swelling only occurs in extreme circumstances such as letting oil sit on the toy constantly or from using highly incompatible oils. (Coconut oil is one of the least problematic oils.)
+Contrary to what many believe, silicone is not impervious to oil based lubes (nor is it [non-porou](#porosity)). Similar to how silicone oil from silicone lubes can cause silicone to swell, many other oils can have this effect too. However, this is not a one-way process, oils can go in but they can also go out. Permanent deformation due to swelling only occurs in extreme circumstances such as letting oil sit on the toy constantly or from using highly incompatible oils. (Coconut oil is one of the least problematic oils.)
 
 Coconut oil is the most well regarded oil for a sex lube. The only other oils I found to be used as primary ingredients in products intended for internal use were sunflower seed oil, shea butter, and cocoa butter. Generally, oil based lubes using these oils appear to be safe but are sometimes recommended against for vaginal use.
 
