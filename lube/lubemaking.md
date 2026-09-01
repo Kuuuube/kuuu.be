@@ -289,6 +289,7 @@ You will need to experiment to find the exact thickener percent that you prefer.
 |---------------------------------------------------------------------------------------|--------|
 | Water                                                                                 | 97-99% |
 | Thickener of your choice. See: [Thickeners](#thickeners)                              |  1-3%  |
+| Preservatives of your choice. See: [Preservatives](#preservatives)                    |   ?%   |
 | Citric acid (if you intend to use this lube vaginally)                                |   ?%   |
 
 Instructions:
@@ -314,6 +315,7 @@ This is identical to [Two-ish ingredient lube](#two-ish-ingredient-lube) except 
 | Polysorbate 20                                                                        |    2.5%    |
 | Dimethicone                                                                           |     2%     |
 | Thickener of your choice. See: [Thickeners](#thickeners)                              |    1-3%    |
+| Preservatives of your choice. See: [Preservatives](#preservatives)                    |     ?%     |
 | Citric acid (if you intend to use this lube vaginally)                                |     ?%     |
 
 Instructions:
