@@ -99,7 +99,7 @@ Distilled water:
 
 ### Thickeners
 
-There are many different thickeners to choose from. These are my notes on thickeners, much of this is from tests I have personally conducted. There are many other viable thickeners not listed here.
+There are many different thickeners to choose from. These are my notes on thickeners, much of this is from tests I have personally conducted. There are many other viable thickeners not listed here. With many of these polymers, differences in molecular weight will vastly affect the lube's performance.
 
 Carboxymethylcellulose (CMC):
 - Hydrates fast
