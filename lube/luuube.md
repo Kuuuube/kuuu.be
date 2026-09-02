@@ -1,6 +1,28 @@
 # Luuube
 
-## Types of lube
+## The fun, the pain, and the numbness
+
+Before diving into types of lube bases, there are some underlying themes relevant to all lubes.
+
+### Warming, cooling, or sensitizing lubes
+
+These can be fun, painful, and numbing all in one. Always test these somewhere less sensitive before putting them on your genitals or inside you. It will feel FAR more intense when on a sensitive area. Also heed any warnings given by the manufacturer, many are for external use only.
+
+### Numbing lubes or creams
+
+Avoid these. Benzocaine is the most common numbing ingredient but if you see any hinting at numbing, run away.
+
+Penetration should not be painful, whether it's vaginal or anal. Start slow, do some warmup, play with your fingers and smaller toys to get used to penetration. It can take time, don't rush things too much.
+
+Pelvic floor issues such as vaginismus can also cause pain but it may be possible to work these through with kegel exercises and dialators (talk with your doctor about this). Although rarer, there are similar conditions that could make anal penetration difficult as well.
+
+### Relaxing lubes or creams
+
+Be VERY CAREFUL when considering one of these. It is not uncommon for a relaxing lube to simply be a numbing lube or contain both numbing and relaxing ingredients.
+
+These are not inherently bad. While they shouldn't be necessary, some people enjoy the feeling. Oils such as clove oil or jojoba oil can cause a relaxing effect without numbing and appear to be safe.
+
+## Lube bases
 
 For the sake of being thorough, this list includes some notes on lubricants that are not body safe. Do not use random lubricating substances as sex lubes.
 
