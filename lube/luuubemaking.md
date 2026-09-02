@@ -1,4 +1,4 @@
-# Lubemaking
+# Luuubemaking
 
 I am not a professional lube formulator. This guide is based on my personal research and experiments. If you find a mistake, have a comment, or want to contact me for some reason, send me an [email](mailto:kuuube@kuuu.be).
 
