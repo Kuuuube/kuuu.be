@@ -4,6 +4,8 @@
 
 For the sake of being thorough, this list includes some notes on lubricants that are not body safe. Do not use random lubricating substances as sex lubes.
 
+I do not give specific product recommendations in this guide. Take a look at [Phallophile Reviews' Lube Safety Guide](https://phallophilereviews.com/ph-balanced-lubricant-guide-safety) for that.
+
 ### Water
 
 Water-based lubes are often presented as a default, simple, and safe lube option. Whereas they are some of the most complex lubricants and not always safe.
