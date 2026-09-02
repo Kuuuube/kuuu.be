@@ -1,5 +1,9 @@
 # Luuube
 
+For the sake of being thorough, this list includes some notes on lubricants that are not body safe. Do not use random lubricating substances as sex lubes.
+
+I do not give specific product recommendations in this guide. Take a look at [Phallophile Reviews' Lube Safety Guide](https://phallophilereviews.com/ph-balanced-lubricant-guide-safety) for that.
+
 ## The fun, the pain, and the numbness
 
 Before diving into types of lube bases, there are some underlying themes relevant to all lubes.
@@ -23,10 +27,6 @@ Be VERY CAREFUL when considering one of these. It is not uncommon for a relaxing
 These are not inherently bad. While they shouldn't be necessary, some people enjoy the feeling. Oils such as clove oil or jojoba oil can cause a relaxing effect without numbing and appear to be safe.
 
 ## Lube bases
-
-For the sake of being thorough, this list includes some notes on lubricants that are not body safe. Do not use random lubricating substances as sex lubes.
-
-I do not give specific product recommendations in this guide. Take a look at [Phallophile Reviews' Lube Safety Guide](https://phallophilereviews.com/ph-balanced-lubricant-guide-safety) for that.
 
 ### Water
 
