@@ -22,9 +22,11 @@ Note that oil based lubes can [**break latex and polyisoprene condoms**](https:/
 
 ### Silicone
 
-Similar to oil based lubes, silicone based lubes don't dry out and stick well to skin. They are typically harder to wash off and not as slick as water based lubes.
+Similar to oil based lubes, silicone based lubes don't dry out and stick well to skin. They are typically harder to wash off and not as slick as water based lubes. Although it's rare, some people are [sensitive to silicone oils](https://thenotice.net/2021/08/best-silicone-free-deodorant-reviews/) resulting in irritation.
 
+Dimethicone is the driving force behind almost all silicone lubes. (You may also see its similar brother, dimethiconol.) It comes in a wide range of viscosities, from thick like honey to nearly matching water. Pure dimethicone is rather boring, in a good way. Dimethicone alone can be used as lube without issue.
 
+Cyclomethicones (cyclotetrasiloxane, cyclopentasiloxane, cyclohexasiloxane), which are volatile and evaporate, are also often included. In a silicone lube these may be used to give an initial thinner viscosity to ease spreadability then an increase in viscosity as the cyclomethicone evatorates to help lock the dimethicone in place. In water based cosmetics, it may be used as the sole silicone oil to get the application benefits of silicone without any lasting silicone feel. But this is exceedingly rare to see in water based lubes, I found only a single example out of hundreds.
 
 ### PTFE
 
