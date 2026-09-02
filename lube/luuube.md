@@ -40,6 +40,19 @@ Having a pH imbalance can also cause major issues. The vaginal pH range is 3.8-4
 
 Since water is a main ingredient in supporting life, many micro-organisms love to set up shop wherever there is water. To prevent bacteria, fungus, or mold from growing in lube, preservatives are added. The classic and widely considered safe preservative pair for acidic lubes (vaginal pH balanced) is potassium sorbate and sodium benzoate. But things become a bit more shaky for neutral pH lubes. At the time of writing, phenoxyethanol is the "hero" preservative considered safe to take on this task. Previously, parabens were used and in some cases still are. Despite overflowing controversy of parabens, specific ones used in small quantities could be safe while many others are completely banned from use. See the [preservatives section of my lubemaking guide](./luuubemaking.md#preservatives) for further information.
 
+The thickener of choice can have a huge effect on the experience of a water based lube. Polyethelene oxide tends to create stringy, absurdly slick lube. Whereas cellulose thickened lubes tend to be less slick but not as much of a mess.
+
+X-lube, J-lube, and K-lube are the most popular powdered polyethelene oxide lubes. Due to polyethelene oxide degrading at pH required for vaginal pH balancing, these are not ideal for vaginal use.
+- X-lube is pure polyethelene oxide.
+- J-lube lists their exact formula on their safety data sheet: 75% Powdered Sucrose, <=23.75% Polyethelene oxide <0.75% Fumed Silica, <=0.25% Calcium.
+
+    The sucrose is used to make mixing easier, but causes some concern for shelf life. Choose X-lube instead if you're worried.
+- K-lube is polyethelene oxide but with "special preservatives" added.
+
+    Which preservatives? Nobody knows except M&K Products or SkyHi, their retail facing brand. K-lube does not list a full ingredients list anywhere, they won't tell their retailers the ingredients, and they won't tell you if you ask (I tried).
+
+    Due to the secrecy and refusal to list ingredients, I give them zero benefit of the doubt. It is possible the preservatives are parabens based on historical evidence, ingredients lists of their other products, and current marketing language. Regardless, I recommend against putting mystery preservatives in your body.
+
 ### Oil
 
 Oil-based lubes don't dry out, stick well to skin, and resist water but wash off easily with soap. They tend to be less slick than water-based lubes but similar to silicone lubes.
