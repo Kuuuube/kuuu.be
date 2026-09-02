@@ -10,19 +10,19 @@ Maybe. Here's a few reasons you should and shouldn't make your own lube:
 
 ### Cost
 
-The initial cost to start making your own lube can be high, especially when making a more complex lube than a basic water based one. If you don't use a lot of lube or don't like the idea of buying a potentially lifetime supply of ingredients this may not be for you.
+The initial cost to start making your own lube can be high, especially when making a more complex lube than a basic water-based one. If you don't use a lot of lube or don't like the idea of buying a potentially lifetime supply of ingredients this may not be for you.
 
-On the other hand, it is often possible to make 5-10+ gallons (≈20-40 liters) of lube for the same price as a 4-8oz (≈120-250ml) bottle of store bought lube. Water based (and hybrid water based) lubes are incredibly inexpensive to produce.
+On the other hand, it is often possible to make 5-10+ gallons (≈20-40 liters) of lube for the same price as a 4-8oz (≈120-250ml) bottle of store bought lube. Water-based (and hybrid water-based) lubes are incredibly inexpensive to produce.
 
-When buying water based lube, a large part of the price is the logistics required for shipping around water and some padding on the company's revenue. Lube does not have even close to the economy of scale that bottled water has even though the cost in ingredients required to make both are almost identical. You can turn an entire [40 pack of purified bottled water](./assets/bottled_purified_water_40_pack.jpg) into high quality water based lube for <$10 in ingredients. This quantity of lube bought from a store could cost thousands of dollars.
+When buying water-based lube, a large part of the price is the logistics required for shipping around water and some padding on the company's revenue. Lube does not have even close to the economy of scale that bottled water has even though the cost in ingredients required to make both are almost identical. You can turn an entire [40 pack of purified bottled water](./assets/bottled_purified_water_40_pack.jpg) into high quality water-based lube for <$10 in ingredients. This quantity of lube bought from a store could cost thousands of dollars.
 
-Beyond water based or hybrid water based lubes, it is usually still cheaper to make your own but by a much smaller margin.
+Beyond water-based or hybrid water-based lubes, it is usually still cheaper to make your own but by a much smaller margin.
 
 ### Convenience
 
 It is convenient to place an order for lube online or drop by a store and pick some up with no hassle. Or is it? What if the store is out of stock? What if the shipping times are longer than you'd like?
 
-For the hassle of mixing the lube, you gain the ability to make any amount at nearly a moment's notice. A water based lube can be mixed and ready to use within an hour, start to finish.
+For the hassle of mixing the lube, you gain the ability to make any amount at nearly a moment's notice. A water-based lube can be mixed and ready to use within an hour, start to finish.
 
 ### Risk
 
@@ -66,17 +66,17 @@ I highly recommend against attempting to make any lube that interacts with the e
 
 If you've looked at the ingredients list of a silicone lube you might see some contain as few as 1-3 ingredients. This seems like the easiest thing to make.
 
-Unlike water based lubes which are an easy win on price since water is cheap, silicone oils are expensive. Saving money making your own might be possible but ensure this is the case by doing the math on all the costs before starting.
+Unlike water-based lubes which are an easy win on price since water is cheap, silicone oils are expensive. Saving money making your own might be possible but ensure this is the case by doing the math on all the costs before starting.
 
 Being aware of the dangers dealing with volatile silicone oils is also important. Volatiles are typically included in low quantities in silicone lubes to enhance performance. Not all silicone oils are volatile but ones that are may evaporate at room temperature and combust at a relatively low temperature. Read the safety data sheets, have the proper PPE, and be prepared for anything that could go wrong.
 
-## Making water based lubes
+## Making water-based lubes
 
-Water based lubes are by far the easiest and cheapest to make.
+Water-based lubes are by far the easiest and cheapest to make.
 
 ### Water
 
-Water can make a big difference in the end result of a water based lube, not all water is the same. The purest possible water is not necessary. I recommend using purified bottled water or equivalent.
+Water can make a big difference in the end result of a water-based lube, not all water is the same. The purest possible water is not necessary. I recommend using purified bottled water or equivalent.
 
 Tap water:
 - If your tap water isn't drinkable, don't even think about using it for lube.
@@ -146,7 +146,7 @@ No preservative:
 
     For example, if the lube is used for anal and the bottle touches against a toy, anus, or contaminated hand, it may now be unsafe to use for vaginal or oral insertions.
 - Depending on the formulation, you may not even be able to see bacteria, mold, or fungus growing.
-- Unacceptable for water based lubes intended for commercial sale. While the sales or marketing department might be giddy at the idea of slapping "preservative free" on the bottle, it is incredibly irresponsible and may cause legal trouble to sell a water based sex lube without any preservative.
+- Unacceptable for water-based lubes intended for commercial sale. While the sales or marketing department might be giddy at the idea of slapping "preservative free" on the bottle, it is incredibly irresponsible and may cause legal trouble to sell a water-based sex lube without any preservative.
 
 Potassium Sorbate, Sodium Benzoate, Citric Acid:
 - Effective pH range: <5, most active pH: ≈3.
@@ -191,7 +191,7 @@ Misc:
 
 ### Humectants
 
-These are added to keep water based lubes wet. But are controversial due to the common resulting [unsafe high osmolality](https://phallophilereviews.com/ph-balanced-lubricant-guide-safety/#why-some-popular-lubricants-are-unsafe). This means they can suck water out of cells, leaving the tissue dried out. Some people also report [stinging and irritation](https://www.ahyes.org/blogs/ingredients/why-does-my-lube-sting-the-osmolality-problem-nobody-explains). There are safe thresholds for osmolality but unfortunately it isn't simple to test a lube's osmolality, [an osmometer is required](https://www.fishersci.com/us/en/browse/90207019/Osmometers) which can be very expensive.
+These are added to keep water-based lubes wet. But are controversial due to the common resulting [unsafe high osmolality](https://phallophilereviews.com/ph-balanced-lubricant-guide-safety/#why-some-popular-lubricants-are-unsafe). This means they can suck water out of cells, leaving the tissue dried out. Some people also report [stinging and irritation](https://www.ahyes.org/blogs/ingredients/why-does-my-lube-sting-the-osmolality-problem-nobody-explains). There are safe thresholds for osmolality but unfortunately it isn't simple to test a lube's osmolality, [an osmometer is required](https://www.fishersci.com/us/en/browse/90207019/Osmometers) which can be very expensive.
 
 The most common humectants for lube are Propanediol, Glycerin, and Propylene Glycol (not to be confused with Polyethylene Glycol).
 
@@ -266,7 +266,7 @@ Immersion blender:
 - Typical kitchen immersion blenders may struggle to mix high thickness gels.
 - Decently cheap.
 
-## Making hybrid water based lubes
+## Making hybrid water-based lubes
 
 There is a misconception that hybrid lubes require specialized equipment such as an ultrasonic homogenizer to make. But in actuality, you only need the correct ingredients.
 
@@ -301,7 +301,7 @@ Many hybrid lubes use PEG or PPG dimethicone alongside regular dimethicone. This
 
 ### Two-ish ingredient lube
 
-At its most basic form, water based lube can be made solely from water and a thickener. The lube can be mixed in a single bottle.
+At its most basic form, water-based lube can be made solely from water and a thickener. The lube can be mixed in a single bottle.
 
 You will need to experiment to find the exact thickener percent that you prefer. Different brands, grades, and types of thickeners will all perform slightly differently. The 1-3% range is given as a starting guide but if you want a thin near-water viscosity or a thick gel viscosity, going outside this range may be necessary. Viscosity tends to scale exponentially with the amount of thickener added.
 
