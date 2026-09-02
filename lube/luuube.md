@@ -2,7 +2,7 @@
 
 ## Types of lube
 
-For the sake of being thorough, this list includes some notes on lubricants that are not body safe. Do not use random lubricating substances as sex lubes. When sourcing lubricants or ingredients, ensure they are food grade or cosmetic grade and approved for mucous membrane contact.
+For the sake of being thorough, this list includes some notes on lubricants that are not body safe. Do not use random lubricating substances as sex lubes.
 
 ### Water
 
