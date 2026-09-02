@@ -179,6 +179,7 @@ Parabens:
 Preservative regulations:
 - [EU ECHA: Cosmetic Products Regulation, Annex V - Allowed Preservatives](https://echa.europa.eu/cosmetics-preservatives)
 - [EU SCCS: Opinion on Parabens](http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_132.pdf)
+- [EU SCCS: Opinion on Phenoxyethanol](https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_195.pdf)
 
 Misc:
 - [Whole Foods: Cosmetics Banned Ingredients List](https://www.wholefoodsmarket.com/quality-standards/beauty-body-care-standards) and [Whole Foods: 2017 Supplier Quality Standards List](https://www.makingskincare.com/wp-content/uploads/2018/08/wholefoods-natural-Body-Premium-Standard.pdf)
