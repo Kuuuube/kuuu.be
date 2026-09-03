@@ -6,12 +6,12 @@ import sys
 
 import comrak
 
-BASE_DIRS = ["pages"]
+BASE_DIRS = ["src"]
 BUILD_DIR = "dist"
-DIST_SHIFT_DIRS = ["pages"]
+DIST_SHIFT_DIRS = ["src"]
 INDEX_BLACKLIST_DIRS = ["assets"]
-BUILD_ASSETS_DIR = "build_assets"
-PAGE_ASSETS_DIR = os.path.join(BUILD_ASSETS_DIR, "page_assets")
+BUILD_ASSETS_DIR = "build_deps"
+PAGE_ASSETS_DIR = os.path.join(BUILD_ASSETS_DIR, "page_deps")
 PAGE_ASSETS_BUILD_DIR = os.path.join(BUILD_DIR, "assets")
 COPY_DIRS = []
 
