@@ -134,6 +134,8 @@ Polyethylene Oxide (PEO):
 - May degrade and not function properly in slightly acidic solutions. Keep the pH very close to neutral, around 6.5-7.
 - Stable in solution
 
+Use CMC or HEC for a balanced lube thickener. Pick PEO if you want absurd slickness and don't mind the stringyness.
+
 ### Preservatives
 
 Handling undiluted preservatives tends to be the most dangerous part of making a lube, even if the preservatives are mild in solution. Wear proper PPE. At minimum, have eye protection and gloves. Read the material safety data sheets and be prepared for anything that could go wrong.
