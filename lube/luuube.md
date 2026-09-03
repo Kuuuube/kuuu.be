@@ -28,6 +28,10 @@ Be VERY CAREFUL when considering one of these. It is not uncommon for a relaxing
 
 These are not inherently bad. While they shouldn't be necessary, some people enjoy the feeling. Oils such as clove oil or jojoba oil can cause a relaxing effect without numbing and appear to be safe.
 
+### Tightening creams
+
+Don't use these. If you want to make your vagina or anus and rectum "tighter", do kegel exercises. This will make your pelvic floor muscles stronger and may make penetration more pleasurable for you.
+
 ## Lube bases
 
 ### Water
