@@ -1,6 +1,6 @@
 # Luuube
 
-For the sake of being thorough, this list includes some notes on lubricants that are not body safe. Do not use random lubricating substances as sex lubes.
+For the sake of being thorough, this list includes some notes on lubricants that are not body safe. Do not use random lubricating substances as sex lubes. Do not use lubes from manufacturers who do not list the ingredients.
 
 I do not give specific product recommendations in this guide. Take a look at [Phallophile Reviews' Lube Safety Guide](https://phallophilereviews.com/ph-balanced-lubricant-guide-safety) for that.
 
@@ -14,13 +14,13 @@ These can be fun, painful, and numbing all in one. Always test these somewhere l
 
 Make sure to read the ingredients and do some research too. It isn't uncommon for these to contain highly irritating ingredients which may result in a very unfun time.
 
-### Numbing lubes or creams
+### Numbing or desensitizing lubes or creams
 
-Avoid these. Benzocaine is the most common numbing ingredient but if you see any hinting at numbing, run away.
+Avoid these. Benzocaine and lidocaine are the most common numbing ingredients but if you see any hinting at numbing, run away.
 
 Penetration should not be painful, whether it's vaginal or anal. Start slow, do some warmup, play with your fingers and smaller toys to get used to penetration. It can take time, don't rush things too much.
 
-In some cases there are underlying problems preventing painless penetration and avoiding them with numbing can make things far worse. Listen to your body but don't jump to the worst case just because you had trouble a few times. Pelvic floor issues such as vaginismus can cause pain but it may be possible to work through these with kegel exercises and dialators (talk with your doctor about this). Although rarer, there are similar conditions that could make anal penetration difficult as well.
+In some cases there are underlying problems preventing painless penetration and avoiding them with numbing can make things far worse. Listen to your body but don't jump to the worst case just because you had trouble a few times. Pelvic floor issues such as vaginismus can cause pain but it may be possible to work through these with kegel exercises and dilators (talk with your doctor about this). Although rarer, there are similar conditions that could make anal penetration difficult as well.
 
 ### Relaxing lubes or creams
 
