@@ -122,7 +122,7 @@ Guar Gum (Cyamopsis):
 - Works well in small quantities
 - Shear thinning
 - Translucent white solution when fully settled
-- Not stable in solution, split after a few days possibly due to inadequate preservatives
+- Not stable in solution, split after a few days possibly due to inadequate preservatives or the need to mix it with other thickeners
 
 Polyethylene Oxide (PEO):
 - Hydrates fast
