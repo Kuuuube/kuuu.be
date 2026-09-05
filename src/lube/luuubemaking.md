@@ -230,6 +230,10 @@ Keep in mind that other ingredients may also change the pH. Citric acid should b
 - Bubbles. In thicker lubes this is much more of an issue as they can take days to fully settle out and may create an undesirable texture until settled.
 - Agglomerates. These are clusters of thickened gel that shield the center powder from hydrating. Typically agglomerates will eventually hydrate but it can take awhile. If you get agglomerates, check back in a few hours and they may disappear.
 - Chopping up molecules. When using high molecular weight polymers such as Polyethylene Oxide, it is important to not use high shear mixing since it can chop up and destroy the long molecular chains.
+- Undermixing. This is easy to avoid with fast hydrating thickeners that take a minute or less, but for thickeners that take a long time hydrate, you can't stop early. If your thickener appears to not change the viscosity even after a few minutes or you can see powder floating around, it's likely a slow hydrating thickener. Manufacturers often specify a range of time it takes for hydration but don't assume anything has gone wrong until around an hour or two.
+
+    If you're mixing by hand and using slow hydrating thickeners, you don't need to mix hard the whole time. Gentle, intermittent mixing should work.
+- Overmixing. If your thickener takes 30 minutes to hydrate, don't mix it for 5 hours. Once your lube's viscosity stops increasing, stop mixing. This is hard to do by hand but if you're using a magnetic stirrer or similar, don't leave it on for far longer than necessary. Some thickeners can get entangled in strange ways and not mix correctly or have a tendency to split.
 - Overfilled containers. Almost all mixing methods degrade significantly when you use a container that is highly filled (75-100% full).
 
 #### Types of mixing
