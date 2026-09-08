@@ -26,7 +26,7 @@ In some cases there are underlying problems preventing painless penetration and 
 
 Be VERY CAREFUL when considering one of these. It is not uncommon for a relaxing lube to simply be a numbing lube or contain both numbing and relaxing ingredients.
 
-These are not inherently bad. They may increase blood flow or provide an effect similar to a warming lube which could be enjoyable. Oils such as clove oil or jojoba oil appear to be safe in small quantities.
+These are not inherently bad. They may increase blood flow or provide an effect similar to a warming lube which could be enjoyable. Oils such as clove oil or jojoba oil appear to be safe in small quantities infused or diluted into other lubes. Do not use pure or concentrated "relaxing oils" as lube.
 
 ### Tightening creams
 
