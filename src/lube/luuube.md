@@ -107,9 +107,11 @@ Some lubes may use the term "grease" to denote the thickness of the lubricant wi
 
 ### Dry Lubricants
 
-By far the most common dry lubricant is graphite. Pure graphite powder is safe chemically and is approved for food contact but will not give adequate lubrication to skin and may cause mechanical irritation. However, many graphite lubricants contain extra additives that **significantly elevate** safety risks over pure graphite. Food safe "white graphite" lubricants using hexagonal boron nitride (as opposed to carbon) are also available.
+By far the most common dry lubricant is graphite. Pure graphite powder is safe chemically and is approved for food contact but will not give adequate lubrication to skin and may cause mechanical irritation. However, many graphite lubricants contain extra additives that **significantly elevate** safety risks over pure graphite. Food safe "white graphite" lubricants using hexagonal boron nitride (as opposed to carbon) are also available. Molybdenum disulfide is another common dry lubricant and while not particularly hazardous, it isn't even considered food safe so it shouldn't be considered. The only other notable dry lubricant I found is solid PTFE which doesn't seem useful in this case. Despite the low toxicity, all of these can cause harm if you breathe in the fine powders.
 
-Solid PTFE is another notable dry lubricant but doesn't seem useful in this case. Other common dry lubricants don't appear to be any better than graphite or PTFE. It does not seem like a good idea to insert fine powders internally either. I advise against using dry lubricants as a sex lube.
+I could simply theorize about how well these would work as a sex lube, but I chose to give one a try. Specifically, pure 3 micron graphite powder. It both works terribly and far better than I expected. I expected it to not even get close to providing enough lubrication but somehow it did provide enough for a very gentle, slow insertion of a small dildo... and nothing further than that. I didn't get very far before stopping. The fine powder is also incredibly messy, although it does clean off easily with soap and water. The graphite caused a very slight amount of mechanical irritation, I had no other adverse reactions. While I chose to test this and I was fine, it does not seem like a great idea to insert fine powders internally. Afterwards, I tried using a water-based lube and it felt heavenly compared to the graphite.
+
+I advise against using dry lubricants as a sex lube. Use literally any other body safe lubricant instead.
 
 ## Notes
 
