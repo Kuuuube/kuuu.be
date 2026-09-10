@@ -301,7 +301,7 @@ Typically, the term "hybrid lube" means a silicone oil/water mix. But it doesn't
 
 ### Water soluble oils
 
-Many hybrid lubes use PEG or PPG dimethicone alongside regular dimethicone. This is silicone oil that has been bonded to PEG (Polyethylene Glycol) to form an amphilic molecule (likes both oil and water) so it can be soluble in water.
+Many hybrid lubes use PEG or PPG dimethicone (dimethicone copolyols) alongside regular dimethicone. This is silicone oil that has been bonded to PEG (Polyethylene Glycol) to form an amphilic molecule (likes both oil and water) so it can be soluble in water. The existence of PEG dimethicone does not mean you can get the exact same properties as plain dimethicone for "free" (no surfactant), it performs differently. But PEG dimethicone may be useful in addition to dimethicone.
 
 ## Example recipes
 
