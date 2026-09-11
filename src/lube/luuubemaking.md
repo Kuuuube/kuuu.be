@@ -216,7 +216,7 @@ Additional resources:
 
 ### pH balancing
 
-The most common use case for pH balancing is creating a lube that matches the vaginal pH range of 3.8-4.5 (as opposed to a pH of 6-8 in the rectum). Anal or external lubes typically do not need pH adjustment. If you need a lube for both vaginal and anal use, pH balance it for vaginal. But beware that people with sensitive rectums may feel an uncomfortable stinging sensation when using a lower pH lube anally.
+The most common use case for pH balancing is creating a lube that matches the typical vaginal pH range of 3.8-4.5. The vaginal pH can end up slightly lower or a lot higher than this in some cases and it may vary throughout your cycle. You can measure your own pH at various times during a month if you're curious. Anal or external lubes typically do not need pH adjustment since the rectum has a pH of around 6-8 which is close to the neutral pH of pure water. If you need a lube for both vaginal and anal use, pH balance it for vaginal. But beware that people with sensitive rectums may feel an uncomfortable stinging sensation when using a lower pH lube anally.
 
 You will need a pH meter or pH test strips to test the pH at various points during the process. I do not recommend buying a super cheap digital pH meter, buy test strips if you need a cheap option.
 
