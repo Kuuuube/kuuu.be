@@ -333,7 +333,7 @@ Instructions:
 
 ### Barebones hybrid lube
 
-This is identical to [Two-ish ingredient lube](#two-ish-ingredient-lube) except it adds dimethicone and polysorbate 20. I have tested this recipe with 6 cSt (low viscosity) dimethicone.
+This is identical to [Two-ish ingredient lube](#two-ish-ingredient-lube) except it adds dimethicone and polysorbate 20. I have tested this recipe with 6 cSt (low viscosity) and 350 cSt (medium viscosity) dimethicone.
 
 | Ingredients                                                                           |     %      |
 |---------------------------------------------------------------------------------------|------------|
@@ -349,7 +349,9 @@ Instructions:
 2. Weigh out the polysorbate and dimethicone into the small vial. Weigh out the water into the bottle. Weigh out the thickener onto a weigh boat or small piece of paper.
 
     If you plan on making this a vaginal lube, [pH balance](#ph-balancing) your water now using the citric acid, before the thickener is added.
-3. Shake up the vial of polysorbate and dimethicone. It should form a cloudy mix which will separate in about 30 seconds.
+3. Shake up the vial of polysorbate and dimethicone. It should form a cloudy white mix which will separate after some time.
+
+    Lower viscosity dimethicones will separate faster and may look translucent with the polysorbate. (6 cSt dimethicone separates in about 30 seconds.)
 4. Before the polysorbate and dimethicone have separated, add them to the water, shake up the water briefly, and add the thickener. Follow the same final steps as [Two-ish ingredient lube](#two-ish-ingredient-lube) for mixing the thickener.
 
 After bubbles have settled out, the resulting solution should be a translucent white color.
