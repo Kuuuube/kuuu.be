@@ -142,6 +142,8 @@ Handling undiluted preservatives tends to be the most dangerous part of making a
 
 I am not an expert on preservatives in cosmetics or lubes. The following is correct to the best of my ability. Please double-check and do your own research before putting potentially harmful substances in your body. Remember that preservatives are meant to kill living organisms, preservatives used in the wrong quantities or mixes can be toxic to the human body. And be careful if you go without a preservative, they exist for our safety, using a lube with bacterial growth in it is far more harmful than correctly formulated preservatives.
 
+When the EU or FDA give safe maximums for a preservative, that does not necessarily mean you will be harmed if you go above that amount. There is a safety margin incase you're using many different products with the same preservative mix and extra buffer just for caution. For example, when the EU says 1% phenoxyethanol is okay to use, this does not mean 1.1% will cause major harm. The amounts required for harm are far higher. Do not exceed the limits but don't let them scare you either, these limits are set with real life usage in mind not simply lab toxicity testing.
+
 No preservative:
 - Some lubes last just a few days before spoiling. Typically, a lube can last a few weeks to a few months but it depends on the formulation and if it gets contaminated.
 - There is nothing to fight off bacteria from contamination.
