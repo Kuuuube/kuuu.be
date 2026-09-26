@@ -32,8 +32,14 @@ def shift_dirs(directory_path):
     return directory_path
 
 def get_html_head(output_html_path):
+    filename = output_html_path.split("/")[-1]
+    # index.html pages should be titled using their dirname rather than filename to avoid being titled "Index"
+    if filename == "index.html" and len(output_html_path.split("/")) >= 2:
+        filename = output_html_path.split("/")[-2]
+    page_title = filename.split(".")[0].replace("_", " ").title()
+
     replacements = [
-        {"target": r"{page_title}", "replacement": output_html_path.split("/")[-1].split(".")[0].replace("_", " ").title()},
+        {"target": r"{page_title}", "replacement": page_title},
         {"target": r"{./styles.css}", "replacement": os.path.relpath(os.path.join(PAGE_ASSETS_BUILD_DIR, "styles.css"), os.path.dirname(output_html_path))},
     ]
     head_html = open("./" + BUILD_ASSETS_DIR + "/head.html").read()
