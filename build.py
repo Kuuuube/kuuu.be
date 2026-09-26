@@ -83,21 +83,6 @@ def render_html_page(output_html_path, markdown_data):
     output_html += "</body>\n"
     return output_html
 
-def get_noindex_dirs(start_dirs):
-    dirs = start_dirs
-    noindex_dirs = []
-    while len(dirs) > 0:
-        index_found = False
-        current_dir = dirs.pop()
-        for item in os.scandir(current_dir):
-            if item.is_dir() and item.name not in INDEX_BLACKLIST_DIRS:
-                dirs.append(item.path)
-            elif item.is_file() and item.name == "index.html":
-                index_found = True
-        if not index_found:
-            noindex_dirs.append(current_dir)
-    return noindex_dirs
-
 if __name__ == "__main__":
     if "build.py" not in os.listdir():
         print("Aborting build, build.py not found in cwd. Navigate to build.py's parent directory and try again.")
