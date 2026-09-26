@@ -226,6 +226,68 @@ Decreasing the pH is usually done by adding citric acid. Citric acid can VERY qu
 
 Keep in mind that other ingredients may also change the pH. Citric acid should be doing the vast majority of the work but the pH should be checked after adding other ingredients to ensure it's within an acceptable range. Cellulose thickeners shouldn't change the pH, you should balance your solution before adding them as it will be much harder to mix thoroughly after adding a thickener. Other thickeners such as carbomer can drastically change the pH.
 
+### Viscosity tuning and predicting
+
+Viscosity is incredibly important to the performance of a lube and while it's certainly possible to achieve your perfect viscosity through pure trial and error, it can be made far easier through some prediction methods. Almost all water based lubes are shear thinning non-newtonian fluids. This means they get thinner when force is applied which is very desirable for a sex lube.
+
+The best way to measure viscosity is by using a rheometer. For a non-newtonian fluid this is even more helpful since rheometers can measure viscosity at multiple specific shear rates. I will assume you do not have access to a rheometer and will not be investing in one. If you do have one, use it.
+
+#### Estimating viscosity
+
+Here are some basic methods for measuring viscosity without a rheometer:
+
+1. Visual comparison
+
+    This is the least precise. Simply swirl around or pour the fluid and compare the behavior to other fluids.
+
+2. Pencil drip
+
+    Dip a pencil or any conical pointy object into the fluid, pull it out vertically, and time how long it takes for the stream of liquid to break into drops. The results of this test become extremely dubious when using stringy thickeners such as polyethylene oxide.
+
+3. Flow cups
+
+    Get a cup with a hole in the bottom, cover the hole, fill the cup either to a marking or by a specific volume, uncover the hole, and time how long it takes for the cup to empty, to drain to a specific mark, or for the stream to break. When using this test, I put a scale below the cup and track the time it takes to drain specific amounts based on the mass of the fluid.
+
+    Lower viscosity fluids will require a narrower hole and higher viscosity fluids will require a broader hole to measure easily. But do not directly compare times taken with different hole sizes.
+
+    A funnel or cup with a hole cut in it can work great but some standardized options are available such as Ford or Zahn flow cups. These are only necessary if knowing the absolute viscosity is useful or if you need to collaborate with others at a separate location.
+
+4. Ball drop
+
+    Get a clear tube and a dense ball, fill up the tube to a specific mark, drop the ball into the tube, and time how long it takes to fall between two measured markings. Typically a graduated cylinder and a stainless steel ball-bearing or marble are used. The tube should be a significantly larger diameter than the ball to avoid excess slowdown. This method may not work for opaque lubes.
+
+5. Incline plane
+
+    Place a flat surface with edges (to avoid fluid dripping off the side) at an incline, pour a set amount of fluid onto a set point at the top, and time how long it takes to reach a set point at the bottom of the incline.
+
+Some of these tests allow calculating absolute viscosity but it is difficult to gauge performance based on a single absolute viscosity number for a non-newtonian fluid. It is unlikely to be worth relying upon absolute approximations over relative approximations for a lube.
+
+For all tests, ensure you minimize variables. Keep equipment and methods consistent. Varying things can be useful for testing different characteristics but it will not create directly comparable tests. I recommend running multiple identical tests and taking the average of the results. Record the fluid and air temperature to reference in case results start to vary in the future, viscosity can change greatly at different temperatures.
+
+#### Predicting viscosity
+
+Once you collected data from a few viscosity tests using the same thickener at different percentages, you can use a regression function to predict viscosity. I find it easiest to do using a [graphing calculator such as desmos](https://www.desmos.com/calculator). Desmos offers [every regression function you could possibly need](https://help.desmos.com/hc/en-us/articles/4406972958733-Regressions) for this purpose.
+
+Here's how I set up regression functions in desmos:
+
+1. Select the `+` at the top left of the expression panel and click `table`.
+
+2. Under the `x`, enter the quantity of thickener used. Under the `y` enter the measured viscosity in whatever unit you measured it in.
+
+3. After you enter a few points, you should see an `Add Regression` button appear on the left side of the expression panel showing some dots and a line. Click it.
+
+4. Change the regression type from `Linear Regression` to the most reasonable regression for your data. You likely want `Exponential Regression`, enabling `Log Mode` may also help.
+
+    If you're unsure which regression is best, this may take some trial and error. Try to find regression which is closest to all points. It will not be perfect since there are many imperfect variables at play. [Desmos will display `r²`, `R²`, or `RMSE`](https://help.desmos.com/hc/en-us/articles/202529129-What-is-RMSE) which can help estimate how good the regression is but don't blindly take the best statistical value.
+
+5. In the units you're measuring in, decide the target viscosity and find that point on the regression line. The X value at this point is the amount of thickener required to reach this viscosity measurement.
+
+    For example, one of my tests has an exponential regression of `y=0.201913*165.8944^x`. To get a viscosity of around 15 seconds on this test, find 15 on the Y axis of the regression line and click on the line. It will show the value at that point, ≈0.84%.
+
+    If the exact value at 15 seconds is required, create a new expression and enter `y=15`. This will draw a horizontal line intersecting with the regression line where `Y` is `15` and desmos will highlight this point `(0.84282, 15)`. This shows the exact value to be 0.84282%. Due to inaccuracies in measurement, such high precision is unlikely to be useful.
+
+6. Make sure to save your desmos graph or save a link to the snapshot every time you make a change. The regression equations can also be copied out of desmos to make a simple backup.
+
 ### Mixing
 
 #### Bad things we don't want
