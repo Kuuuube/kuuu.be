@@ -203,7 +203,7 @@ I will not be providing guidance on how to use humectants. Although most lubes u
 
 ### Colorants and color additives
 
-These are completely optional. If you want your lube to look like cum, blood, monster slime, or some other fluid, you may need a colorant. For cum, simply making a hybrid silicone/water-based lube rather than adding a colorant may give the desired white color due to the differing refractive indexes.
+These are completely optional. If you want your lube to look like cum, blood, monster slime, or some other fluid, you may need a colorant. For cum, making a hybrid oil/water-based lube rather than adding a colorant may give the desired whitish color due to the differing refractive indexes.
 
 Be VERY careful when selecting colorants, there are plenty of pigments that are completely toxic, can only be used externally, can only be used on certain areas of the body, or have conflicting approval between FDA and EU regulations. Do not assume natural colorants are safer than synthetics. To ensure your lube is safe, I recommend checking both the FDA and EU regulations regarding color additives or colorants that are approved for cosmetic use around the eyes, mouth (lipstick), and mucous membranes.
 
