@@ -207,6 +207,8 @@ These are completely optional. If you want your lube to look like cum, blood, mo
 
 Be VERY careful when selecting colorants, there are plenty of pigments that are completely toxic, can only be used externally, can only be used on certain areas of the body, or have conflicting approval between FDA and EU regulations. Do not assume natural colorants are safer than synthetics. To ensure your lube is safe, I recommend checking both the FDA and EU regulations regarding color additives or colorants that are approved for cosmetic use around the eyes, mouth (lipstick), and mucous membranes.
 
+Some nanoparticle size (1-100nm) pigments are hazardous even though the same materials are not hazardous at microparticle sizes (0.1-100μm). Particles at the nano size can exhibit entirely different behavior. While nanoparticle pigments do have legitimate uses, they do not have a valid place in lube and using them creates potential unnecessary risk. When selecting pigments, check the particle size range and do not solely rely on the average particle size.
+
 Colorant regulation lists:
 - [FDA: Color Additives Permitted for Use in Cosmetics](https://www.fda.gov/cosmetics/cosmetic-ingredient-names/color-additives-permitted-use-cosmetics)
 - [FDA: Regulatory Status of Color Additives in Cosmetics](https://hfpappexternal.fda.gov/scripts/fdcc/?set=ColorAdditives&sort=Sort_Unique_ID&order=ASC&startrow=1&type=column&search=Use-current%C2%A4VARCHAR%C2%A4cosmetics)
@@ -215,6 +217,10 @@ Colorant regulation lists:
 Additional resources:
 - [FDA: Color Additives and Cosmetics: Fact Sheet](https://www.fda.gov/industry/color-additives/color-additives-and-cosmetics-fact-sheet)
 - [FDA: How Safe are Color Additives?](https://www.fda.gov/consumers/consumer-updates/how-safe-are-color-additives)
+- [FDA: Cosmetics Nanotechnology](https://www.fda.gov/cosmetics/cosmetics-science-research/cosmetics-nanotechnology)
+- [FDA: Guidance for Industry: Safety of Nanomaterials in Cosmetic Products](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-safety-nanomaterials-cosmetic-products)
+- [EU: Regulation (EC) No 1223/2009](https://eur-lex.europa.eu/TodayOJ/index.html?uri=CELEX:32009R1223:EN:NOT)
+- [EU SCCS: Guidance on the Safety Assessment of Nanomaterials in Cosmetics](https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_s_005.pdf)
 
 ### pH balancing
 
