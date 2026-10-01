@@ -170,7 +170,7 @@ Phenoxyethanol, Ethylhexylglycerin:
     It is usually used in combination with phenoxyethanol at a ratio of 90:10 (P:E) but may also be found at a ratio of 80:20.
 
 Parabens:
-- These are very controversial and many parabens are banned. Follow usage guidelines and stay below the usage limits considered to be safe.
+- These are very controversial and some parabens are banned while others are safe. Follow usage guidelines and stay below the usage limits considered to be safe.
 
     [There is no evidence](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/cancer-myths-questions/cosmetics) [of parabens causing health issues](https://www.allure.com/story/parabens-are-not-the-problem) [when used in the correct quantities](https://www.fda.gov/cosmetics/cosmetic-ingredients/parabens-cosmetics). [The EU even disallows labeling language such as](https://eur-lex.europa.eu/eli/reg/2013/655/oj/eng) ["paraben free" or "free from parabens" due to it unfairly misleading consumers](https://webgate.ec.europa.eu/circabc-ewpp/rest/download/83d29cfc-b5c8-4496-bee3-2e25f08e2e73).
 - [Methylparaben is allowed](https://echa.europa.eu/cosmetics-preservatives/-/legislationlist/details/EU-COSM_PROD-ANX_V_ALLOW_PRESERV-100.002.532-VSK-58F0F4) [in cosmetics in a maximum](https://echa.europa.eu/cosmetics-preservatives/-/legislationlist/details/EU-COSM_PROD-ANX_V_ALLOW_PRESERV-100.043.134-VSK-58F0E3) [quantity of 0.4% in the EU](https://echa.europa.eu/cosmetics-preservatives/-/legislationlist/details/EU-COSM_PROD-ANX_V_ALLOW_PRESERV-100.023.377-VSK-58F0ED).
