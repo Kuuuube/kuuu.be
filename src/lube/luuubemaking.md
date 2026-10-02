@@ -160,7 +160,7 @@ Potassium Sorbate, Sodium Benzoate, Citric Acid:
 - Citric acid is not entirely necessary but is a popular and safe way of dropping the pH for vaginal use and the use of these preservatives.
 
 Phenoxyethanol, Ethylhexylglycerin:
-- Effective pH range: 3-10
+- Effective pH range: 3-10.
 - Phenoxyethanol usage in cosmetics (including those with mucous membrane contact) in [the EU](https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf) is [capped at 1%](https://echa.europa.eu/cosmetics-preservatives/-/legislationlist/details/EU-COSM_PROD-ANX_V_ALLOW_PRESERV-100.004.173-VSK-13A7A6). Typical usage is around 0.25-1%.
 - Phenoxyethanol may be paired with Ethylhexylglycerin to be an effective broad spectrum preservative (Phenoxyethanol alone is mostly for gram-negative bacteria).
 
@@ -170,6 +170,7 @@ Phenoxyethanol, Ethylhexylglycerin:
     It is usually used in combination with phenoxyethanol at a ratio of 90:10 (P:E) but may also be found at a ratio of 80:20.
 
 Parabens:
+- Effective pH range: 4-8.
 - These are very controversial and some parabens are banned while others are safe. Follow usage guidelines and stay below the usage limits considered to be safe.
 
     [There is no evidence](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/cancer-myths-questions/cosmetics) [of parabens causing health issues](https://www.allure.com/story/parabens-are-not-the-problem) [when used in the correct quantities](https://www.fda.gov/cosmetics/cosmetic-ingredients/parabens-cosmetics). [The EU even disallows labeling language such as](https://eur-lex.europa.eu/eli/reg/2013/655/oj/eng) ["paraben free" or "free from parabens" due to it unfairly misleading consumers](https://webgate.ec.europa.eu/circabc-ewpp/rest/download/83d29cfc-b5c8-4496-bee3-2e25f08e2e73).
