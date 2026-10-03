@@ -202,6 +202,7 @@ Parabens:
 
 - [Isopropylparaben, isobutylparaben, phenylparaben, benzylparaben, and pentylparaben are banned in the EU](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.107.01.0005.01.ENG&toc=OJ:L:2014:107:TOC).
 - [Isobutylparaben and isopropylparaben are banned in California](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB2762).
+- [The Association of Southeast Asian Nations' Cosmetics Committee has adopted the same rules as the EU](https://asean.org/wp-content/uploads/2012/05/Appendix-25-JOS-Parabens-Final.pdf).
 
 Preservative regulations:
 - [EU ECHA: Cosmetic Products Regulation, Annex V - Allowed Preservatives](https://echa.europa.eu/cosmetics-preservatives)
