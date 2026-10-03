@@ -212,7 +212,7 @@ Misc:
 
 ### Humectants
 
-These are added to keep water-based lubes wet. But are controversial due to the common resulting [unsafe high osmolality](https://phallophilereviews.com/ph-balanced-lubricant-guide-safety/#why-some-popular-lubricants-are-unsafe). This means they can suck water out of cells, leaving the tissue dried out. Some people also report [stinging and irritation](https://www.ahyes.org/blogs/ingredients/why-does-my-lube-sting-the-osmolality-problem-nobody-explains). There are safe thresholds for osmolality but unfortunately it isn't simple to test a lube's osmolality, [an osmometer is required](https://www.fishersci.com/us/en/browse/90207019/Osmometers) which can be very expensive.
+These are added to keep water-based lubes wet. But are controversial for use in internal lubes due to the common resulting [unsafe high osmolality](https://phallophilereviews.com/ph-balanced-lubricant-guide-safety/#why-some-popular-lubricants-are-unsafe). This means they can suck water out of cells, leaving the tissue dried out. Some people also report [stinging and irritation](https://www.ahyes.org/blogs/ingredients/why-does-my-lube-sting-the-osmolality-problem-nobody-explains). There are safe thresholds for osmolality but unfortunately it isn't simple to test a lube's osmolality, [an osmometer is required](https://www.fishersci.com/us/en/browse/90207019/Osmometers) which can be very expensive.
 
 The most common humectants for lube are Propanediol, Glycerin, and Propylene Glycol (not to be confused with Polyethylene Glycol).
 
