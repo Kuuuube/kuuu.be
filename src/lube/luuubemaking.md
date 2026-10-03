@@ -455,3 +455,5 @@ After bubbles have settled out, the resulting solution should be a translucent w
 I defer to Perry Romanowski's ["How To Knock-Off a Cosmetic Formula"](http://www.scientificspectator.com/documents/personal%20care%20spectator/Duplicating%20a%20Formulation.pdf).
 
 You don't need to recreate a perfect copy of the lube you're trying to deformulate. Figure out how to make a lube that performs in the ways you care about and ignore the parts you don't need or want to change.
+
+The [EU's CosIng database](https://ec.europa.eu/growth/tools-databases/cosing/) can be used to search INCI names from the ingredients label on products.
