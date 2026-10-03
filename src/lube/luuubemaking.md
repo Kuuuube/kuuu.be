@@ -122,7 +122,9 @@ Guar Gum (Cyamopsis):
 - Works well in small quantities
 - Shear thinning
 - Translucent white solution when fully settled
-- Not stable in solution, split after a few days possibly due to inadequate preservatives or the need to mix it with other thickeners
+- Not stable in solution, degraded after a few days even with preservatives and while mixed with other thickeners
+
+    It's possible I have a low quality product or cationic guar gum is required. Guar gum is used in some commercial lubes with success.
 
 Polyethylene Oxide (PEO):
 - Hydrates fast
