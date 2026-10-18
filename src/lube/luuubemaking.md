@@ -205,6 +205,17 @@ Parabens:
 - [Isopropylparaben, isobutylparaben, phenylparaben, benzylparaben, and pentylparaben are banned in the EU](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.107.01.0005.01.ENG&toc=OJ:L:2014:107:TOC).
 - [Isobutylparaben and isopropylparaben are banned in California](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB2762).
 - [The Association of Southeast Asian Nations' Cosmetics Committee has adopted the same rules as the EU](https://asean.org/wp-content/uploads/2012/05/Appendix-25-JOS-Parabens-Final.pdf).
+- Parabens in their pure form have very limited solubility in water and may require heating. [The solubilities also overlap with eachother, adding one paraben to the solution may change the solubility of another](https://doi.org/10.1021/js9900452). If possible, dissolve parabens in lipids or organic solvents before mixing with water. Sodium salts of parabens can also have vastly increased solubility in water.
+
+    Methylparaben is soluble in water up to ~0.25% at 25C and ~1% at 80C. In propylene glycol, the solubility jumps to ~25%.
+
+    Ethylparaben is soluble in water up to ~0.11% at 25C and ~0.86% at 80C. In propylene glycol, ~25%.
+
+    Propylparaben is soluble in water up to ~0.04% at 25C and ~0.45% at 80C. In propylene glycol, ~29%.
+
+    Butylparaben is soluble in water up to ~0.02% at 20C and ~0.15% at 80C.
+
+    Sodium Methylparaben, Sodium Ethylparaben, and Sodium Propylparaben are freely soluble in water.
 
 Preservative regulations:
 - [EU ECHA: Cosmetic Products Regulation, Annex V - Allowed Preservatives](https://echa.europa.eu/cosmetics-preservatives)
