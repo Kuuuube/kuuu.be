@@ -445,10 +445,12 @@ Instructions:
 2. Weigh out the polysorbate and dimethicone into the small vial. Weigh out the water into the bottle. Weigh out the thickener onto a weigh boat or small piece of paper.
 
     If you plan on making this a vaginal lube, [pH balance](#ph-balancing) your water now using the citric acid, before the thickener is added.
-3. Shake up the vial of polysorbate and dimethicone. It should form a cloudy white mix which will separate after some time.
+3. Add the thickener to the small vial and shake up the vial. It should form a cloudy white mix which will separate after some time.
 
     Lower viscosity dimethicones will separate faster and may look translucent with the polysorbate. (6 cSt dimethicone separates in about 30 seconds.)
-4. Before the polysorbate and dimethicone have separated, add them to the water, shake up the water briefly, and add the thickener. Follow the same final steps as [Two-ish ingredient lube](#two-ish-ingredient-lube) for mixing the thickener.
+
+    Dispersing the thickener in a non-wetting fluid helps avoid agglomerates. This isn't a hard requirement, adding them separately will still work.
+4. Before the polysorbate, dimethicone, and thickener have separated, add them to the water and follow from step 3 of [Two-ish ingredient lube](#two-ish-ingredient-lube).
 
 After bubbles have settled out, the resulting solution should be a translucent white color.
 
