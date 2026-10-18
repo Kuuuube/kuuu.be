@@ -10,7 +10,7 @@ Maybe. Here's a few reasons you should and shouldn't make your own lube:
 
 ### Cost
 
-The initial cost to start making your own lube can be high, especially when making a more complex lube than a basic water-based one. If you don't use a lot of lube or don't like the idea of buying a potentially lifetime supply of ingredients this may not be for you.
+The initial cost to start making your own lube can be high, especially when making a more complex lube than a basic water-based one. If you don't use a lot of lube or don't like the idea of buying a potentially lifetime supply of ingredients this may not be for you. You may also end up buying ingredients to experiment with but you don't end up enjoying them.
 
 On the other hand, it is often possible to make 5-10+ gallons (≈20-40 liters) of lube for the same price as a 4-8oz (≈120-250ml) bottle of store bought lube. Water-based (and hybrid water-based) lubes are incredibly inexpensive to produce.
 
