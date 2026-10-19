@@ -236,7 +236,7 @@ These are added to keep water-based lubes wet. But are controversial for use in 
 
 The most common humectants for lube are Propanediol, Glycerin, and Propylene Glycol (not to be confused with Polyethylene Glycol).
 
-I will not be providing guidance on how to use humectants. Although most lubes use these, I recommend against it. If you do choose to use a humectant, do it in the minimum quantity required to achieve the result you desire.
+Although most lubes use these, I recommend against it unless the lube is for external use. If you do choose to use a humectant, do it in the minimum quantity required to achieve the result you desire.
 
 ### Colorants and color additives
 
