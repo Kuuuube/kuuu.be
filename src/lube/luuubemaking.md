@@ -331,6 +331,32 @@ Here's how I set up regression functions in desmos:
 
 6. Make sure to save your desmos graph or save a link to the snapshot every time you make a change. The regression equations can also be copied out of desmos to make a simple backup.
 
+### Degradation curve manipulation
+
+An important and easy to overlook property of lube is its degradation curve. This refers to the reduction in slipperiness over time as the lube dries out or otherwise degrades. Lubes with a sudden sharp decline in slipperiness may be uncomfortable to use even if they last a long time or are incredibly slippery at the beginning.
+
+Consider the following two lubes:
+
+![](./assets/degradation_curve_graph.svg)
+
+While the lube shown in dark red will stay at a high slipperiness for longer, it suddenly declines leaving the user without much time to anticipate the lube degrading. Whereas the lube shown in light green isn't as slippery but degrades gradually giving plenty of warning for when it will become uncomfortable and more will need to be reapplied.
+
+Typically, basic lubes with only a thickener and no other helping ingredients will end up nosediving as they dry out. These lubes may still perform well when used in a very humid environment such as a shower. Some thickeners such as polyethylene oxide also partially circumvent this issue by starting out so absurdly slippery that they have a very long way down.
+
+Lube that suddenly loses its slipperiness can cause interruptions at critical moments and frustration. It is important to address this issue. Here are a few ways:
+
+- Add [humectants](./luuubemaking.md#humectants). If the lube is constantly trying to pull more moisture to itself to stay wet, it will take longer to dry out and have a softer degradation curve.
+
+- Add oils. Making a hybrid lube with an oil in water emulsion will create a lower bound for slipperiness since the oil will not dry out.
+
+    See: [making hybrid water-based lubes](./luuubemaking.md#making-hybrid-water-based-lubes).
+
+- Add emollient esters. These create a smooth and soft feeling that will last as the lube starts to dry out. It is often described as "silky" in skincare.
+
+    A few popular emollient esters are Isopropyl Myristate, Isopropyl Palmitate, Ethylhexyl Palmitate, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, and Glyceryl Stearate. I have not evaluated these thoroughly enough to give proper thoughts, this it not a recommendation but it should help point you in the right direction.
+
+There are likely other methods but these are the key methods I've observed lubes on the market using.
+
 ### Mixing
 
 #### Bad things we don't want

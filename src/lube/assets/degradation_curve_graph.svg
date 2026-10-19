@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="197.34801mm"
+   height="119.797mm"
+   viewBox="0 0 197.34801 119.79699"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="degradation_curve_graph.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.2918084"
+     inkscape:cx="378.53911"
+     inkscape:cy="205.13878"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#bfbfbfff" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="graph_data"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.2106412,-52.839675)">
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#a30004;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 27.854873,64.696211 c 0,0 43.97899,-0.02417 65.385755,4.318086 27.139582,5.505126 36.280172,6.681421 40.378962,82.026303 h 56.90777"
+       id="path6"
+       sodipodi:nodetypes="cscc"
+       inkscape:label="red_line"
+       inkscape:export-filename="path6.png"
+       inkscape:export-xdpi="261.38721"
+       inkscape:export-ydpi="261.38721" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#9fff00;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 27.854874,71.315864 c 0,0 25.968459,-0.226953 37.89656,5.075953 9.140952,4.063816 15.069926,15.697197 24.204517,19.781851 5.962436,2.66618 12.984789,-0.03722 18.948289,2.625488 10.28628,4.592834 17.16285,17.096704 27.26913,22.240224 5.94367,3.02499 12.89902,2.02387 18.94828,4.72589 9.08218,4.05675 16.6653,11.99327 25.42864,16.97 5.67425,3.22242 17.50807,8.30534 17.50807,8.30534"
+       id="path83"
+       inkscape:label="stairstepped_good"
+       sodipodi:nodetypes="caaaaaac" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="graph_base"
+     transform="translate(-4.2106412,-52.839675)"
+     style="display:inline;filter:url(#filter3)">
+    <g
+       id="g4"
+       transform="translate(5.4988189,0.15579133)"
+       inkscape:label="time_text"
+       style="stroke-width:0.8;stroke-dasharray:none">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:12.7px;font-family:'Lexend Deca';-inkscape-font-specification:'Lexend Deca, Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.8;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stroke-linejoin:round"
+         x="91.424034"
+         y="166.9557"
+         id="text2"
+         inkscape:label="time_textbox"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.8;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+           x="91.424034"
+           y="166.9557">Time</tspan></text>
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect4"
+         width="2.8674273"
+         height="21.096071"
+         x="106.02408"
+         y="151.38481"
+         inkscape:label="alignment_placeholder" />
+    </g>
+    <g
+       id="g5"
+       transform="translate(-42.742686,9.7319996)"
+       inkscape:label="slipperyness_text">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:12.7px;font-family:'Lexend Deca';-inkscape-font-specification:'Lexend Deca, Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.8;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stroke-linejoin:round"
+         x="-134.87119"
+         y="62.151287"
+         id="text4"
+         transform="rotate(-90)"
+         inkscape:label="slipperyness_textbox"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="stroke-width:0.8;stroke:#ffffff;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+           x="-134.87119"
+           y="62.151287">Slipperyness</tspan></text>
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect5"
+         width="23.144234"
+         height="3.8915083"
+         x="46.953327"
+         y="92.012352"
+         inkscape:label="alignment_placeholder" />
+    </g>
+    <g
+       id="g82"
+       inkscape:label="axis_lines">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 27.854874,56.339607 V 151.0406 H 198.05836"
+         id="path1"
+         inkscape:label="graph_axis_lines_outline" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 27.854874,56.339607 V 151.0406 H 198.05836"
+         id="path82"
+         inkscape:label="graph_axis_lines" />
+    </g>
+  </g>
+</svg>
