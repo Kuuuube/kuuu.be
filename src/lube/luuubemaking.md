@@ -236,6 +236,33 @@ These are added to keep water-based lubes wet. But are controversial for use in 
 
 The most common humectants for lube are Glycerin, Propylene Glycol (not to be confused with Polyethylene Glycol), and Propanediol. Typical usages are: 2-5% Glycerin, 1-8% Propylene Glycol, or 1-10% Propanediol. Some lubes use far more, you may even see lubes using more Glycerin or Propylene Glycol than water to create a warming sensation. If you choose to use a humectant, use the minimum quantity required to achieve the result you desire.
 
+#### Calculating osmolarity and osmolality
+
+While determining the overall osmolality or osmolarity of a lube can be complex, the change due to the addition of a humectant can be easily calculated. First, pure water starts with both a molality of 0 mol/Kg (moles per kilogram), a molarity of 0 mol/L (moles per liter), an osmolality of 0 Osm/Kg (osmoles per kilogram), and osmolarity of 0 Osm/L (osmoles per liter). If the percentage mass of solute is known, the molarities can be calculated as follows (the molar mass and Van 't Hoff Factor are constants for a specific solute):
+
+| Molarity                   | Osmolarity                 | Milliosmolarity                   |
+|----------------------------|----------------------------|-----------------------------------|
+| `mol/L = g/L / g/mol`      | `Osm/L = g/L / g/mol * i`  | `mOsm/L = g/L / g/mol * i * 1000` |
+|                            | `i` = Van 't Hoff Factor   | `i` = Van 't Hoff Factor          |
+
+For example, given a solution of 99% water and 1% Propanediol (by weight) there are 10 grams of propanediol per liter of solution and the molar mass of propanediol is 76.095g/mol. This gives the following molarity: `10 / 76.095 = 0.1314 mol/L`. To turn this into mOsm/L, multiply by the Van 't Hoff Factor then by 1000. In this case the Van 't Hoff Factor is 1 so this simply becomes `0.1314 * 1000 = 131.4 mOsm`.
+
+To make things a bit more simple for the cases of Glycerin, Propylene Glycol, and Propanediol:
+
+| Glycerin                       | Propylene Glycol               | Propanediol                    |
+|--------------------------------|--------------------------------|--------------------------------|
+| `mOsm/L = g/L / 92.094 * 1000` | `mOsm/L = g/L / 76.095 * 1000` | `mOsm/L = g/L / 76.095 * 1000` |
+
+Importantly, this is the osmolarity not the osmolality. Osmolality may be calculated similarly but is slightly less convenient. The `g/Kg` in the following equations is grams of solute per kilograms of solvent. It is NOT per kilogram of solution.
+
+| Molality                     | Osmolality                   | Milliosmolality                     |
+|------------------------------|------------------------------|-------------------------------------|
+| `mol/Kg = g/Kg / g/mol`      | `Osm/Kg = g/Kg / g/mol * i`  | `mOsm/Kg = g/Kg / g/mol * i * 1000` |
+|                              | `i` = Van 't Hoff Factor     | `i` = Van 't Hoff Factor            |
+
+Considering the same example as before (a solution of 99% water and 1% Propanediol by weight), the solution contains 10g of propanediol but only 990g of water. To find how much propanediol would be in 1000g of water, `1000 / 990 * 10 = 10.1010`. Calculating out the rest of the equation goes the same and gets a result of `0.1327 mol/Kg` and `132.7 mOsm/Kg`. In this case the difference is minor but osmolality can differ more significantly from osmolarity with more concentrated solutions and very hot or cold temperatures.
+
+Other ingredients may also change the osmolarity or osmolality of a lube. Do not assume that your lube is within an optimal range solely due to the humectant's osmolarity or osmolality.
 
 ### Colorants and color additives
 
