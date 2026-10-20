@@ -247,7 +247,7 @@ While determining the overall osmolality or osmolarity of a lube can be complex,
 | `mol/L = g/L / g/mol`      | `Osm/L = g/L / g/mol * i`  | `mOsm/L = g/L / g/mol * i * 1000` |
 |                            | `i` = Van 't Hoff Factor   | `i` = Van 't Hoff Factor          |
 
-For example, given a 1 liter solution of 99% water and 1% Propanediol, there are 10.597 grams of propanediol per liter of solution (>10g since it's slightly denser than water) and the molar mass of propanediol is 76.095g/mol. This gives the following molarity: `10.597 / 76.095 = 0.1392 mol/L`. To turn this into mOsm/L, multiply by the Van 't Hoff Factor then by 1000. In this case the Van 't Hoff Factor is 1 so this simply becomes `0.1392 * 1000 = 139.2 mOsm`.
+For example, given a 1 liter solution of 99% water and 1% Propanediol by volume, there are 10.597 grams of propanediol per liter of solution (>10g since it's slightly denser than water) and the molar mass of propanediol is 76.095g/mol. This gives the following molarity: `10.597 / 76.095 = 0.1392 mol/L`. To turn this into mOsm/L, multiply by the Van 't Hoff Factor then by 1000. In this case the Van 't Hoff Factor is 1 so this simply becomes `0.1392 * 1000 = 139.2 mOsm`.
 
 To make things a bit more simple for the cases of Glycerin, Propylene Glycol, and Propanediol:
 
@@ -262,7 +262,7 @@ Importantly, this is the osmolarity not the osmolality. Osmolality may be calcul
 | `mol/Kg = g/Kg / g/mol`      | `Osm/Kg = g/Kg / g/mol * i`  | `mOsm/Kg = g/Kg / g/mol * i * 1000` |
 |                              | `i` = Van 't Hoff Factor     | `i` = Van 't Hoff Factor            |
 
-Considering a similar example to before (a solution of 99% water and 1% Propanediol but by weight), the solution contains 10g of propanediol but only 990g of water. To find how much propanediol would be in 1000g of water, `1000 / 990 * 10 = 10.1010`. Calculating out the rest of the equation goes the same and gets a result of `0.1327 mol/Kg` and `132.7 mOsm/Kg`. In this case the difference is minor but osmolality can differ more significantly from osmolarity with more concentrated solutions and very hot or cold temperatures.
+Considering a similar example to before, a solution of 99% water and 1% Propanediol but by weight, the solution contains 10g of propanediol but only 990g of water. To find how much propanediol would be in 1000g of water, `1000 / 990 * 10 = 10.1010`. Calculating out the rest of the equation goes the same and gets a result of `0.1327 mol/Kg` and `132.7 mOsm/Kg`. In this case the difference is minor but osmolality can differ more significantly from osmolarity with more concentrated solutions and very hot or cold temperatures.
 
 The water you start with and other ingredients may also change the osmolarity or osmolality of a lube. These calculations are for the ideal case only. Do not assume that your lube is within an optimal range solely due to the humectant's osmolarity or osmolality.
 
