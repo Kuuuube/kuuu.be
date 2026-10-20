@@ -264,6 +264,15 @@ Importantly, this is the osmolarity not the osmolality. Osmolality may be calcul
 
 Considering a similar example to before, a solution of 99% water and 1% Propanediol but by weight, the solution contains 10g of propanediol but only 990g of water. To find how much propanediol would be in 1000g of water, `1000 / 990 * 10 = 10.1010`. Calculating out the rest of the equation goes the same and gets a result of `0.1327 mol/Kg` and `132.7 mOsm/Kg`. In this case the difference is minor but osmolality can differ more significantly from osmolarity with more concentrated solutions and very hot or cold temperatures.
 
+Likewise to osmolarity, this can be simplified for the cases of Glycerin, Propylene Glycol, and Propanediol:
+
+| Glycerin                                 | Propylene Glycol                             | Propanediol                              |
+|------------------------------------------|----------------------------------------------|------------------------------------------|
+| `mOsm/Kg = g/Kg / 92.094 * 1000`         | `mOsm/Kg = g/Kg / 76.095 * 1000`             | `mOsm/Kg = g/Kg / 76.095 * 1000`         |
+|                                          | **Normalized for when water != 1kg**         |                                          |
+| `mOsm/Kg = 1000 / W * S / 92.094 * 1000` | `mOsm/Kg = 1000 / W * S / 76.095 * 1000`     | `mOsm/Kg = 1000 / W * S / 76.095 * 1000` |
+| `W` = Mass of water in grams             | `S` = Mass of solute in grams                |                                          |
+
 The water you start with and other ingredients may also change the osmolarity or osmolality of a lube. These calculations are for the ideal case only. Do not assume that your lube is within an optimal range solely due to the humectant's osmolarity or osmolality.
 
 ### Colorants and color additives
