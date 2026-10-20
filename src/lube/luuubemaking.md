@@ -234,7 +234,7 @@ Misc:
 
 These are added to keep water-based lubes wet. But are controversial for use in internal lubes due to the common resulting [unsafe high osmolality](https://phallophilereviews.com/ph-balanced-lubricant-guide-safety/#why-some-popular-lubricants-are-unsafe). This means they can suck water out of cells, leaving the tissue dried out. Some people also report [stinging and irritation](https://www.ahyes.org/blogs/ingredients/why-does-my-lube-sting-the-osmolality-problem-nobody-explains). There are safe thresholds for osmolality but unfortunately it isn't simple to test a lube's osmolality, [an osmometer is required](https://www.fishersci.com/us/en/browse/90207019/Osmometers) which can be very expensive.
 
-The most common humectants for lube are Propanediol, Glycerin, and Propylene Glycol (not to be confused with Polyethylene Glycol). Typical usages are: 1-10% Propanediol, 2-5% Glycerin, or 1-8% Propylene Glycol. Some lubes use far more, you may even see lubes using more Glycerin or Propylene Glycol than water to create a warming sensation.
+The most common humectants for lube are Glycerin, Propylene Glycol (not to be confused with Polyethylene Glycol), and Propanediol. Typical usages are: 2-5% Glycerin, 1-8% Propylene Glycol, or 1-10% Propanediol. Some lubes use far more, you may even see lubes using more Glycerin or Propylene Glycol than water to create a warming sensation.
 
 Although most lubes use these, I recommend against it unless the lube is for external use. If you do choose to use a humectant, do it in the minimum quantity required to achieve the result you desire.
 
