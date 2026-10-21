@@ -382,7 +382,7 @@ Typically, basic lubes with only a thickener and no other helping ingredients wi
 
 Lube that suddenly loses its slipperiness can cause interruptions at critical moments and frustration. It is important to address this issue. Here are a few ways:
 
-- Add [humectants](./luuubemaking.md#humectants). If the lube is constantly trying to pull more moisture to itself to stay wet, it will take longer to dry out and have a softer degradation curve.
+- Add [humectants](./luuubemaking.md#humectants). If the lube is constantly trying to pull more moisture to itself to stay wet, it will take longer to dry out and have a softer degradation curve. But humectants work best over an extended time period and will not help if the lube degrades fast enough. Constant quick and rough motion can negate the effects of humectants.
 
 - Add oils. Making a hybrid lube with an oil in water emulsion will create a lower bound for slipperiness since the oil will not dry out.
 
