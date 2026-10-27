@@ -382,11 +382,11 @@ Typically, basic lubes with only a thickener and no other helping ingredients wi
 
 Lube that suddenly loses its slipperiness can cause interruptions at critical moments and frustration. It is important to address this issue. Here are a few ways:
 
-- Add [humectants](./luuubemaking.md#humectants). If the lube is constantly trying to pull more moisture to itself to stay wet, it will take longer to dry out and have a softer degradation curve. But humectants work best over an extended time period and will not help if the lube degrades fast enough. Constant quick and rough motion can negate the effects of humectants.
+- Add [humectants](#humectants). If the lube is constantly trying to pull more moisture to itself to stay wet, it will take longer to dry out and have a softer degradation curve. But humectants work best over an extended time period and will not help if the lube degrades fast enough. Constant quick and rough motion can negate the effects of humectants.
 
 - Add oils. Making a hybrid lube with an oil in water emulsion will create a lower bound for slipperiness since the oil will not dry out.
 
-    See: [making hybrid water-based lubes](./luuubemaking.md#making-hybrid-water-based-lubes).
+    See: [making hybrid water-based lubes](#making-hybrid-water-based-lubes).
 
 - Add emollient esters. These create a smooth and soft feeling that will last as the lube starts to dry out. It is often described as "silky" in skincare.
 
@@ -479,13 +479,13 @@ Many hybrid lubes use PEG or PPG dimethicone (dimethicone copolyols) alongside r
 
 ### Thickener wont thicken
 
-See the [`Undermixing` section of `Bad things we don't want`](./luuubemaking.md#bad-things-we-dont-want).
+See the [`Undermixing` section of `Bad things we don't want`](#bad-things-we-dont-want).
 
 ### Stringy formations and white foamy bits starting from the top of the bottle
 
 You may be alarmed at first. But your lube might not have spoiled or started growing mold and bacteria.
 
-This mainly happens because a [humectant](./luuubemaking.md#humectants) is not present. The lack of a humectant allows the very top of the lube to lose moisture due to the exposure to air. This can cause the thickener to dehydrate slightly and form into opaque stringy bits. Shaking up the lube again will likely cause these bits to rehydrate over time but the top will begin to lose moisture again.
+This mainly happens because a [humectant](#humectants) is not present. The lack of a humectant allows the very top of the lube to lose moisture due to the exposure to air. This can cause the thickener to dehydrate slightly and form into opaque stringy bits. Shaking up the lube again will likely cause these bits to rehydrate over time but the top will begin to lose moisture again.
 
 Some thickeners appear to not have this issue but I haven't noticed any measurable changes in performance due to this. Many commercial lubes also suffer from this and may look unsightly after some time.
 
