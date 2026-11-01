@@ -108,14 +108,14 @@ Carboxymethylcellulose (CMC):
 - Works well in small quantities
 - Shear thinning
 - Clear solution when fully settled
-- Stable in solution
+- Mostly stable in solution (sensitive to drying out where the lube is exposed to air)
 
 Hydroxyethylcellulose (HEC):
 - Hydrates fast or slow (if R-grade)
 - Works well in small quantities
 - Shear thinning
 - Clear solution when fully settled
-- Stable in solution
+- Mostly stable in solution (slightly sensitive to drying out where the lube is exposed to air)
 
 Guar Gum (Cyamopsis):
 - Hydrates fast
@@ -134,7 +134,7 @@ Polyethylene Oxide (PEO):
 - Super stringy when high molecular weight (eg. X-Lube powder)
 - Low molecular weight variants are called Polyethylene Glycol or PEG
 - May degrade and not function properly in slightly acidic solutions. Keep the pH very close to neutral, around 6.5-7.
-- Stable in solution
+- Highly stable in solution
 
 Use CMC or HEC for a balanced lube thickener. Pick PEO if you want absurd slickness and don't mind the stringyness.
 
