@@ -101,40 +101,20 @@ Distilled water:
 
 ### Thickeners
 
-There are many different thickeners to choose from. These are my notes on thickeners, much of this is from tests I have personally conducted. There are many other viable thickeners not listed here. With many of these polymers, differences in molecular weight will vastly affect the lube's performance.
+These are my notes on thickeners from tests I have personally conducted. There are many other viable thickeners not listed here. With polymers, differences in molecular weight will vastly affect the lube's performance. I have not tested a variety of molecular weights.
 
-Carboxymethylcellulose (CMC):
-- Hydrates fast
-- Works well in small quantities
-- Shear thinning
-- Clear solution when fully settled
-- Mostly stable in solution (sensitive to drying out where the lube is exposed to air)
+| Thickener                    | Hydration | Solution Color    | Stretch       | Stability over time                                                      | pH stability                                       |
+|------------------------------|-----------|-------------------|---------------|--------------------------------------------------------------------------|----------------------------------------------------|
+| Carboxymethylcellulose (CMC) | Fast      | Clear             | Minimal       | Slightly unstable after a few days<br>Extremely unstable after two weeks | Usable in neutral and acidic solutions             |
+| Hydroxyethylcellulose (HEC)  | Slow      | Clear             | Minimal       | Slightly unstable after two weeks                                        | Usable in neutral and acidic solutions             |
+| Guar Gum (Cyamopsis)         | Fast      | Translucent White | Minimal       | Extremely unstable after a few days                                      | Usable in neutral and acidic solutions             |
+| Polyethylene Oxide (PEO)     | Fast      | Clear             | Super stringy | No instability found after 3 months                                      | Degrades in acidic solutions, keep pH around 6.5-7 |
 
-Hydroxyethylcellulose (HEC):
-- Hydrates fast or slow (if R-grade)
-- Works well in small quantities
-- Shear thinning
-- Clear solution when fully settled
-- Mostly stable in solution (slightly sensitive to drying out where the lube is exposed to air)
-
-Guar Gum (Cyamopsis):
-- Hydrates fast
-- Works well in small quantities
-- Shear thinning
-- Translucent white solution when fully settled
-- Not stable in solution, degraded after a few days even with preservatives and while mixed with other thickeners
-
-    It's possible I have a low quality product or cationic guar gum is required. Guar gum is used in some commercial lubes with success.
-
-Polyethylene Oxide (PEO):
-- Hydrates fast
-- Works well in small quantities
-- Shear thinning
-- Clear solution when fully settled
-- Super stringy when high molecular weight (eg. X-Lube powder)
-- Low molecular weight variants are called Polyethylene Glycol or PEG
-- May degrade and not function properly in slightly acidic solutions. Keep the pH very close to neutral, around 6.5-7.
-- Highly stable in solution
+Additional notes:
+- All of these thickeners create a shear thinning solution.
+- Fast hydrating HEC is possible but almost all HEC available on the market is "R-grade" which means it has delayed hydration.
+- PEO is specifically high molecular weight polyethylene oxide. The low molecular weight variant of the same polymer is referred to as PEG or polyethylene glycol.
+- The stability over time can be adjusted by using additives. For example, a small amount of humectant will greatly extend the stability of CMC.
 
 Use CMC or HEC for a balanced lube thickener. Pick PEO if you want absurd slickness and don't mind the stringyness.
 
@@ -485,19 +465,11 @@ See the [`Undermixing` section of `Bad things we don't want`](#bad-things-we-don
 
 You may be alarmed at first. But your lube might not have spoiled or started growing mold and bacteria.
 
-This mainly happens because a [humectant](#humectants) is not present. The lack of a humectant allows the very top of the lube to lose moisture due to the exposure to air. This can cause the thickener to dehydrate slightly and form into opaque stringy bits. Shaking up the lube again will likely cause these bits to rehydrate over time but the top will begin to lose moisture again.
+This mainly happens because a [humectant](#humectants) is not present. The lack of a humectant allows the very top of the lube to lose moisture due to the exposure to air. This can cause the thickener to dehydrate slightly and form into opaque stringy bits.
 
-Some thickeners appear to not have this issue but I haven't noticed any measurable changes in performance due to this. Many commercial lubes also suffer from this and may look unsightly after some time.
+The prevalence of this issue depends greatly on the thickener you use. Some do not degrade or become unstable even after many months or years.
 
 **Do not confuse actual spoilage for weird thickener behavior. If your lube has spoiled, discard it immediately.**
-
-These stringy formations or foamy bits:
-- Won't continue to increase beyond the size of the lube's contact point with air.
-- Won't reach down into the lube (unless you shake it up).
-- Won't leave blobs or splotches of floating pieces in the lube.
-- Won't look "hairy" like mold growths.
-- Won't smell weird (or at least not any different from when you freshly mixed the lube).
-- Won't be any color other than the color of the thickener.
 
 ## Example recipes
 
