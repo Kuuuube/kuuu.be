@@ -103,12 +103,12 @@ Distilled water:
 
 These are my notes on thickeners from tests I have personally conducted. There are many other viable thickeners not listed here. With polymers, differences in molecular weight will vastly affect the lube's performance. I have not tested a variety of molecular weights.
 
-| Thickener                    | Hydration | Solution Color    | Stretch       | Stability over time                                                      | pH stability                                       |
-|------------------------------|-----------|-------------------|---------------|--------------------------------------------------------------------------|----------------------------------------------------|
-| Carboxymethylcellulose (CMC) | Fast      | Clear             | Minimal       | Slightly unstable after a few days<br>Extremely unstable after two weeks | Usable in neutral and acidic solutions             |
+| Thickener                    | Hydration | Solution Color    | Stretch       | Stability over time                                                              | pH stability                                       |
+|------------------------------|-----------|-------------------|---------------|----------------------------------------------------------------------------------|----------------------------------------------------|
+| Carboxymethylcellulose (CMC) | Fast      | Clear             | Minimal       | Slightly unstable after a few days<br>Extremely unstable after two weeks         | Usable in neutral and acidic solutions             |
 | Hydroxyethylcellulose (HEC)  | Slow      | Clear             | Minimal       | Slightly unstable after two weeks<br>No further instability found after 3 months | Usable in neutral and acidic solutions             |
-| Guar Gum (Cyamopsis)         | Fast      | Translucent White | Minimal       | Extremely unstable after a few days                                      | Usable in neutral and acidic solutions             |
-| Polyethylene Oxide (PEO)     | Fast      | Clear             | Super stringy | No instability found after 3 months                                      | Degrades in acidic solutions, keep pH around 6.5-7 |
+| Guar Gum (Cyamopsis)         | Fast      | Translucent White | Minimal       | Extremely unstable after a few days                                              | Usable in neutral and acidic solutions             |
+| Polyethylene Oxide (PEO)     | Fast      | Clear             | Super stringy | No instability found after 3 months                                              | Degrades in acidic solutions, keep pH around 6.5-7 |
 
 Additional notes:
 - All of these thickeners create a shear thinning solution.
