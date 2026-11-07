@@ -103,17 +103,19 @@ Distilled water:
 
 These are my notes on thickeners from tests I have personally conducted. There are many other viable thickeners not listed here. With polymers, differences in molecular weight will vastly affect the lube's performance. I have not tested a variety of molecular weights.
 
-| Thickener                    | Hydration | Solution Color    | Stretch       | Stability over time                                                              | pH stability                                       |
-|------------------------------|-----------|-------------------|---------------|----------------------------------------------------------------------------------|----------------------------------------------------|
-| Carboxymethylcellulose (CMC) | Fast      | Clear             | Minimal       | Slightly unstable after a few days<br>Extremely unstable after two weeks         | Usable in neutral and acidic solutions             |
-| Hydroxyethylcellulose (HEC)  | Slow      | Clear             | Minimal       | Slightly unstable after two weeks<br>No further instability found after 3 months | Usable in neutral and acidic solutions             |
-| Guar Gum (Cyamopsis)         | Fast      | Translucent White | Minimal       | Extremely unstable after a few days                                              | Usable in neutral and acidic solutions             |
-| Polyethylene Oxide (PEO)     | Fast      | Clear             | Super stringy | No instability found after 3 months                                              | Degrades in acidic solutions, keep pH around 6.5-7 |
+| Thickener                       | Hydration | Color             | Stretch       | Feel                           | Quantity               | Maximum thickness           | Stability over time                                                              | pH stability                                       |
+|---------------------------------|-----------|-------------------|---------------|--------------------------------|------------------------|-----------------------------|----------------------------------------------------------------------------------|----------------------------------------------------|
+| Carboxymethylcellulose (CMC)    | Fast      | Clear             | Minimal       | Clean and slick                | Low, 1-4%              | Nearly jello                | Slightly unstable after a few days<br>Extremely unstable after two weeks         | Usable in neutral and acidic solutions             |
+| Hydroxyethylcellulose (HEC)     | Slow      | Clear             | Minimal       | Clean and slick                | Low, 0.5-2%            | Nearly jello                | Slightly unstable after two weeks<br>No further instability found after 3 months | Usable in neutral and acidic solutions             |
+| Guar Gum (Cyamopsis)            | Fast      | Translucent White | Minimal       | Clean and slick                | Low, 0.5-2%            | Nearly jello                | Extremely unstable after a few days                                              | Usable in neutral and acidic solutions             |
+| Polyethylene Oxide (PEO)        | Fast      | Clear             | Super stringy | Clean and super slick          | Low, 0.5-2%            | Nearly jello                | No instability found after 3 months                                              | Degrades in acidic solutions, keep pH around 6.5-7 |
+| Polyetheylene Glycol 3350 (PEG) | Fast      | Clear             | Minimal       | Oily or greasy, slightly tacky | Extremely high, 40-60% | Slightly thicker than water | Untested                                                                         | Untested                                           |
 
 Additional notes:
 - All of these thickeners create a shear thinning solution.
 - Fast hydrating HEC is possible but almost all HEC available on the market is "R-grade" which means it has delayed hydration.
 - PEO is specifically high molecular weight polyethylene oxide. The low molecular weight variant of the same polymer is referred to as PEG or polyethylene glycol.
+- PEG 3350 is only included due to how often people are curious about its performance compared to PEO. PEG 3350 is extremely accessible since it is used in many laxatives but it is not a particularly useful thickener.
 - The stability over time can be adjusted by using additives. For example, a small amount of humectant will greatly extend the stability of CMC.
 
 Use CMC or HEC for a balanced lube thickener. Pick PEO if you want absurd slickness and don't mind the stringyness.
