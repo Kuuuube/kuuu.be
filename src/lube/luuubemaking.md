@@ -143,6 +143,8 @@ Potassium Sorbate, Sodium Benzoate, Citric Acid:
 - Do not use potassium sorbate or sodium benzoate in a neutral pH solution and expect it to be effective.
 - Citric acid is not entirely necessary but is a popular and safe way of dropping the pH for vaginal use and the use of these preservatives.
 
+    Add citric acid and pH adjust after adding potassium sorbate and sodium benzoate, not before. The pH will change after adding them.
+
 Phenoxyethanol, Ethylhexylglycerin:
 - Effective pH range: 3-10.
 - Phenoxyethanol usage in cosmetics (including those with mucous membrane contact) in [the EU](https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf) is [capped at 1%](https://echa.europa.eu/cosmetics-preservatives/-/legislationlist/details/EU-COSM_PROD-ANX_V_ALLOW_PRESERV-100.004.173-VSK-13A7A6). Typical usage is around 0.25-1%.
