@@ -435,7 +435,7 @@ While ultrasonic homogenizers are awesome and can create emulsions with extremel
 
 ![](./assets/ultrasonic_mixer.gif)
 
-I'm certainly not an expert in making emulsions or dispersions but I have successfully made stable hybrid lubes without any special equipment.
+I'm certainly not an expert in making emulsions or dispersions but I have successfully made hybrid lubes without any special equipment.
 
 Technically, emulsions and dispersions are never stable. They're "metastable" which means that given enough time they should eventually split, even if it takes a million years. There is also a difference between an emulsion and a dispersion. A dispersion is stable only due to the viscosity of the solution it is in whereas an emulsion will be stable even if the viscosity changes due to dilution. For the purposes of a lube, a true emulsion is not necessary since thickeners will be added and it will not be diluted.
 
@@ -528,6 +528,8 @@ Instructions:
 4. Before the polysorbate, dimethicone, and thickener have separated, add them to the water and follow from step 3 of [Two-ish ingredient lube](#two-ish-ingredient-lube).
 
 After bubbles have settled out, the resulting solution should be a translucent white color.
+
+Depending on the thickness, this emulsion can hold fully stable for a few days to a few weeks. It won't fully separate but after awhile the emulsion splitting can cause issues with the thickener making the lube no longer viable. Use a high shear mixer to get a longer lasting emulsion.
 
 ## Deformulation
 
