@@ -103,13 +103,13 @@ Distilled water:
 
 These are my notes on thickeners from tests I have personally conducted. There are many other viable thickeners not listed here. With polymers, differences in molecular weight will vastly affect the lube's performance. I have not tested a variety of molecular weights.
 
-| Thickener                       | Hydration | Color             | Stretch       | Feel                           | Quantity               | Maximum thickness           | Stability over time                                                              | pH stability                                       |
-|---------------------------------|-----------|-------------------|---------------|--------------------------------|------------------------|-----------------------------|----------------------------------------------------------------------------------|----------------------------------------------------|
-| Carboxymethylcellulose (CMC)    | Fast      | Clear             | Minimal       | Clean and slick                | Low, 1-4%              | Nearly jello                | Slightly unstable after a few days<br>Extremely unstable after two weeks         | Usable in neutral and acidic solutions             |
-| Hydroxyethylcellulose (HEC)     | Slow      | Clear             | Minimal       | Clean and slick                | Low, 0.5-2%            | Nearly jello                | Slightly unstable after two weeks<br>No further instability found after 3 months | Usable in neutral and acidic solutions             |
-| Guar Gum (Cyamopsis)            | Fast      | Translucent White | Minimal       | Clean and slick                | Low, 0.5-2%            | Nearly jello                | Extremely unstable after a few days                                              | Usable in neutral and acidic solutions             |
-| Polyethylene Oxide (PEO)        | Fast      | Clear             | Super stringy | Clean and super slick          | Low, 0.5-2%            | Nearly jello                | No instability found after 3 months                                              | Degrades in acidic solutions, keep pH around 6.5-7 |
-| Polyetheylene Glycol 3350 (PEG) | Fast      | Clear             | Minimal       | Oily or greasy, slightly tacky | Extremely high, 40-60% | Slightly thicker than water | Untested                                                                         | Untested                                           |
+| Thickener                       | Hydration | Color             | Stretch       | Feel                           | Quantity               | Maximum thickness           | pH stability                                       |
+|---------------------------------|-----------|-------------------|---------------|--------------------------------|------------------------|-----------------------------|----------------------------------------------------|
+| Carboxymethylcellulose (CMC)    | Fast      | Clear             | Minimal       | Clean and slick                | Low, 1-4%              | Nearly jello                | Usable in neutral and acidic solutions             |
+| Hydroxyethylcellulose (HEC)     | Slow      | Clear             | Minimal       | Clean and slick                | Low, 0.5-2%            | Nearly jello                | Usable in neutral and acidic solutions             |
+| Guar Gum (Cyamopsis)            | Fast      | Translucent White | Minimal       | Clean and slick                | Low, 0.5-2%            | Nearly jello                | Usable in neutral and acidic solutions             |
+| Polyethylene Oxide (PEO)        | Fast      | Clear             | Super stringy | Clean and super slick          | Low, 0.5-2%            | Nearly jello                | Degrades in acidic solutions, keep pH around 6.5-7 |
+| Polyetheylene Glycol 3350 (PEG) | Fast      | Clear             | Minimal       | Oily or greasy, slightly tacky | Extremely high, 40-60% | Slightly thicker than water | Untested                                           |
 
 Additional notes:
 - All of these thickeners create a shear thinning solution.
