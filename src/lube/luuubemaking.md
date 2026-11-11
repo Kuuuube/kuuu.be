@@ -116,7 +116,6 @@ Additional notes:
 - Fast hydrating HEC is possible but almost all HEC available on the market is "R-grade" which means it has delayed hydration.
 - PEO is specifically high molecular weight polyethylene oxide. The low molecular weight variant of the same polymer is referred to as PEG or polyethylene glycol.
 - PEG 3350 is only included due to how often people are curious about its performance compared to PEO. PEG 3350 is extremely accessible since it is used in many laxatives but it is not a particularly useful thickener.
-- The stability over time can be adjusted by using additives. For example, a small amount of humectant will greatly extend the stability of CMC.
 
 Use CMC or HEC for a balanced lube thickener. Pick PEO if you want absurd slickness and don't mind the stringyness.
 
