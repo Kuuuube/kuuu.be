@@ -458,22 +458,6 @@ Typically, the term "hybrid lube" means a silicone oil/water mix. But it doesn't
 
 Many hybrid lubes use PEG or PPG dimethicone (dimethicone copolyols) alongside regular dimethicone. This is silicone oil that has been bonded to PEG (Polyethylene Glycol) to form an amphilic molecule (likes both oil and water) so it can be soluble in water. The existence of PEG dimethicone does not mean you can get the exact same properties as plain dimethicone for "free" (no surfactant), it performs differently. But PEG dimethicone may be useful in addition to dimethicone.
 
-## Troubleshooting
-
-### Thickener wont thicken
-
-See the [`Undermixing` section of `Bad things we don't want`](#bad-things-we-dont-want).
-
-### Stringy formations and white foamy bits starting from the top of the bottle
-
-You may be alarmed at first. But your lube might not have spoiled or started growing mold and bacteria.
-
-This mainly happens because a [humectant](#humectants) is not present. The lack of a humectant allows the very top of the lube to lose moisture due to the exposure to air. This can cause the thickener to dehydrate slightly and form into opaque stringy bits.
-
-The prevalence of this issue depends greatly on the thickener you use. Some do not degrade or become unstable even after many months or years.
-
-**Do not confuse actual spoilage for weird thickener behavior. If your lube has spoiled, discard it immediately.**
-
 ## Example recipes
 
 ### Two-ish ingredient lube
