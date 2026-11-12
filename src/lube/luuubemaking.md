@@ -103,13 +103,14 @@ Distilled water:
 
 These are my notes on thickeners from tests I have personally conducted. There are many other viable thickeners not listed here. With polymers, differences in molecular weight will vastly affect the lube's performance. I have not tested a variety of molecular weights.
 
-| Thickener                       | Hydration | Color             | Stretch       | Feel                           | Quantity               | Maximum thickness           | pH stability                                       |
-|---------------------------------|-----------|-------------------|---------------|--------------------------------|------------------------|-----------------------------|----------------------------------------------------|
-| Carboxymethylcellulose (CMC)    | Fast      | Clear             | Minimal       | Clean and slick                | Low, 1-4%              | Nearly jello                | Usable in neutral and acidic solutions             |
-| Hydroxyethylcellulose (HEC)     | Slow      | Clear             | Minimal       | Clean and slick                | Low, 0.5-2%            | Nearly jello                | Usable in neutral and acidic solutions             |
-| Guar Gum (Cyamopsis)            | Fast      | Translucent White | Minimal       | Clean and slick                | Low, 0.5-2%            | Nearly jello                | Usable in neutral and acidic solutions             |
-| Polyethylene Oxide (PEO)        | Fast      | Clear             | Super stringy | Clean and super slick          | Low, 0.5-2%            | Nearly jello                | Degrades in acidic solutions, keep pH around 6.5-7 |
-| Polyetheylene Glycol 3350 (PEG) | Fast      | Clear             | Minimal       | Oily or greasy, slightly tacky | Extremely high, 40-60% | Slightly thicker than water | Untested                                           |
+| Thickener                                                   | Hydration | Color             | Stretch       | Feel                                | Quantity               | Maximum thickness           | pH stability                                       |
+|-------------------------------------------------------------|-----------|-------------------|---------------|-------------------------------------|------------------------|-----------------------------|----------------------------------------------------|
+| Carboxymethylcellulose (CMC)                                | Fast      | Clear             | Minimal       | Clean and slick                     | Low, 1-4%              | Nearly jello                | Usable in neutral and acidic solutions             |
+| Hydroxyethylcellulose (HEC)                                 | Slow      | Clear             | Minimal       | Clean and slick                     | Low, 0.5-2%            | Nearly jello                | Usable in neutral and acidic solutions             |
+| Guar Gum (Cyamopsis)                                        | Fast      | Translucent White | Minimal       | Clean and slick                     | Low, 0.5-2%            | Nearly jello                | Usable in neutral and acidic solutions             |
+| Polyethylene Oxide (PEO)                                    | Fast      | Clear             | Super stringy | Clean and super slick               | Low, 0.5-2%            | Nearly jello                | Degrades in acidic solutions, keep pH around 6.5-7 |
+| Polyetheylene Glycol 3350 (PEG)                             | Fast      | Clear             | Minimal       | Oily or greasy, slightly tacky      | Extremely high, 40-60% | Slightly thicker than water | Untested                                           |
+| High Molecular Weight (1.5-1.8MDa) Hyaluronic Acid (HMW HA) | Very Fast | Clear             | Minimal       | Clean and slick but degrades slower | Low, 0.5-2%            | Nearly jello                | Usable in neutral and acidic solutions             |
 
 Additional notes:
 - All of these thickeners create a shear thinning solution.
@@ -117,7 +118,7 @@ Additional notes:
 - PEO is specifically high molecular weight polyethylene oxide. The low molecular weight variant of the same polymer is referred to as PEG or polyethylene glycol.
 - PEG 3350 is only included due to how often people are curious about its performance compared to PEO. PEG 3350 is extremely accessible since it is used in many laxatives but it is not a particularly useful thickener.
 
-Use CMC or HEC for a balanced lube thickener. Pick PEO if you want absurd slickness and don't mind the stringyness.
+Use CMC, HEC, or HMW HA for a balanced lube thickener. Pick PEO if you want absurd slickness and don't mind the stringyness.
 
 ### Preservatives
 
